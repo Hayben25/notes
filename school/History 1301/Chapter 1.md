@@ -1,0 +1,3 @@
+- Theories on population
+	- Landbridge between Russia and America during ice age between the bearing strait
+	- South Pacific, African, and subterranean Atlantic routes are found as well

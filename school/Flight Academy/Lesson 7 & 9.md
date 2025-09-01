@@ -1,0 +1,284 @@
+Structure of the atmosphere
+
+- Troposhpere  
+  - Where most of the weather happens  
+  - Tropopause  
+- Stratosphere  
+  - No weather, good for travel  
+- Mesosphere  
+- Thermosphere  
+- Exosphere
+
+Standard atmosphere
+
+- 15 C and 29.92 “Hg
+
+Atmospheric Circulation
+
+- [Aviationweather.gov](http://Aviationweather.gov)  
+- All weather conditions are caused by the uneven heating of the Earth  
+- Convection  
+  - Warm air goes to the poles, cools and then returns to the equator  
+- 3 forces affect the flow of wind  
+  - Pressure Gradient Force (PGF)  
+    - How abruptly the pressure is changing  
+    - Wind flows from high to low pressure  
+    - Windspeed is proportional to the PGF  
+    - Kinda looks like a topography map  
+      - Isobars  
+  - Coriolis force  
+    - Wind up in the air gets cast in the direction of the Earth’s rotation  
+    - Good for long distances at altitude (W → E in northern hemisphere E→W in southern hemisphere)  
+  - Friction  
+    - Below 3000ft air moves differently  
+    - Pressure systems act like curvy electric fields above 3000ft  
+      - High pressure does down and out curved in the cw  
+      - Low pressure does up and in curved in the ccw  
+  - Stable atmosphere resists changes in vertical motion  
+- Dangers of wind  
+  - Wind shear  
+    - Large changes in wind velocity  
+    - Commonly associated with:  
+      - Passing frontal system  
+      - Thunderstorms  
+      - Temperature inversions  
+        - “Capped area of warmer air”  
+        - Doesn't get colder while ascending for a little bit  
+      - How it’s dangerous:  
+        - Decrease airplane performance rapidly  
+          - Violent down or updrafts  
+  - Mountain waves  
+    - Mountains really push air  
+    - Clouds can help show the wind patterns  
+    - Mountain wave turbulence  
+  - Headwind vs Tailwind  
+    - Taking off/Landing: Headwind \> Tailwind  
+    - Cruise: Headwind \< Tailwind  
+- Temperature  
+  - All weather is caused by a transfer of energy (The heating and cooling of the earth’s surface)  
+  - Water cools slower than land which helps regulate temperature  
+  - Temperature decreases @ an average of 2 C per 1000ft  
+    - Isothermal layer: temperature remains the same with height  
+    - Temperature Inversion: temperature increases with height  
+- Moisture  
+  - Necessary Ingredients  
+    - Water vapor  
+    - Lifting action  
+    - Growth process  
+  - Types of precipitation  
+    - Rain  
+      - Virga is when rain evaporates before it hits the ground  
+        - Like venus  
+    - Ice pellets  
+      - Caused by temperature inversion (freezes melts, and refreezes)  
+      - Hail is just condensed ice pellets   
+    - Freezing rain  
+    - Snow  
+  - Dewpoint  
+    - Temperature the air needs to be cooled to achieve a relative humidity of 100% at this point if there is any moisture then it will turn into clouds or precipitation  
+    - The higher the dewpoint the more moisture in the air  
+    - If the temperature and dewpoint are close or equal except fog or clouds  
+  - Humidity  
+    - Amount of water vapor in the atmosphere at a given time  
+    - Relative humidity is the actual amount of moisture in the air compared to max amount of moisture that can be held  
+  - Clouds  
+    - Clouds are formed from vertical motion water vapor (droplets or ice crystals)  
+    - The only type of ceiling are a broken or overcast layer  
+      - ⅝ to ⅞ cloud coverage  
+    - Vertical motion  
+      - Integral to cloud formation  
+      - Types of vertical motion  
+        - Orographic  
+          - Air moving over terrain  
+        - Frictional (High and low pressure)  
+        - Frontal lift  
+          - Like a converging boundary but for fronts  
+        - Bouyancy  
+    - Types of Clouds  
+      - High (cirrus, cirro)  
+        - Cirrus  
+        - Cirrostratus  
+        - Cirrocumulus   
+        - 20000+AGL  
+      - Middle (alto)  
+        - Altostratus  
+        - Altocummulus  
+        - 6500-20000AGL  
+      - Low (Strato, Stratus)  
+        - Stratus  
+        - Straticummulus  
+        - Nimbostratus  
+        - Below 6500AGL  
+      - Nimb- or \-nimb means rain  
+      - Clouds with vertical development  
+        - Cumulus, towering cumulus, and cumulonimbus  
+        - Thunder  
+  - Fog  
+    - Visible small water droplets at the surface  
+    - There are multiple types of fog, and you should be familiar with the conditions that could cause them  
+      - Radiation Fog  
+        - Radiation cools the ground, the ground cools the air, and fog forms  
+      - Advection fog  
+        - Moist air moves over a colder surface, cooling it below the dew point  
+        - Common among coastal areas  
+      - Upslope fog  
+        - Moist stable air cooling to the dewpoint as it moves up sloping terrain  
+      - Frontal fog  
+        - When warm, moist air air is lifted over a front, clouds and precipitation may form  
+        - Like a sheet over the front, causing fog underneath the front  
+      - Freezing fog  
+        - Water droplets freezing  
+        - Could attach to aircraft (that’s bad)  
+    - Strong winds (over 15 knots) some kinds of fog  
+  - Air masses  
+    - Classified based on temperature and moisture present in the source region  
+      - C \= continental  
+      - M \= Maritime  
+    - Temperature: Arctic, polar, tropical  
+    - Fronts  
+      - Boundary between two air masses  
+      - Detectable in several ways:  
+        - Significant temperature gradients  
+        - Converging winds  
+      - Cold Front  
+        - Steep slope  
+        - Warm air is forced up abruptly  
+          - Makes clouds fast and causes storms  
+      - Warm front  
+        - Gentle slope  
+        - Warm air rises gradually   
+          - Makes clouds from warm moist air  
+      - Stationary front  
+        - Fronts hit each other  
+        - Clouds and precipitation form in the warm rising air along the front  
+      - Occluded front  
+        - Cold front typically moving faster than warm fronts  
+        - Cold air undercuts a retreating cooler air mass further lifting the already rising warm air  
+        - Bad weather  
+  - Turbulence  
+    - Convective  
+      - Caused by uneven heating  
+    - Mechanical  
+      - Caused by things in the way of wind  
+    - Clean air Turbulence  
+      - Typically, at higher altitudes in cloud free areas with wind shear (particularly in the jet stream)  
+  - Frost  
+    - Per FAR 91.527 \- No pilot may take off an airplane that has frost, ice, or snow adhering to the airplane  
+    - Frost is dew that is frozen  
+    - Changes all of the forces of flight, making it dangerous  
+      - Lift could decrease by 30%  
+      - Drag could increase by 40%  
+      - Adds weight to the aircraft  
+      - Engine doesn't get as much air  
+  - Icing  
+    - Rime \- rough. Milky, and opaque ice; freeze on impact  
+    - Clear \- glossy, clear, or transparent ice; spreads on impact then freezes  
+    - Mixed \- combo  
+    - Icing ingredients  
+      - Moisture  
+      - Freezing temperatures  
+  - Thunderstorms  
+    - Ingredients  
+      - Water vapor  
+      - Unstable air  
+      - Lifting action  
+    - Stages  
+      - Towering Cumulus  
+      - Mature  
+        - Updrafts  
+        - Downdrafts  
+        - Rain starts  
+      - Dissipation  
+        - Becomes increasingly downdraft  
+    - Single cell  
+      - Cone cell storm \- rare  
+    - Multicell  
+      - Cluster of cells at various stages of their life cycle  
+    - Supercell  
+      - Single, quasi-steady rotating updraft persisting for an extended period  
+    - Squall line (most dangerous)  
+      - Line of thunderstorms that often forms 50 to 300 miles of a fast moving cold front  
+    - Hazards  
+      - Lightning  
+      - Microburst  
+        - Associated with windshear (biggest one)  
+        - Big boy downdrafts  
+        - Super good performance before hand and then it hits  
+      - Strong winds  
+      - Turbulence  
+      - Icing  
+      - Hail  
+      - Tornados   
+    - Stay 20 miles from a thunderstorm (b/c bad)  
+- Aviation Routine Weather Report (METAR)  
+  - Current surface weather at an airport  
+  - Updated hourly or when needed if weather changes rapidly (SPECI)  
+- Terminal Aerodrome Forecast (TAF)  
+  - Weather outlook for the 5 SM radius around the airport  
+  - Valid for 24-30 hours (Updated 4 times daily)  
+  - Same abbreviations as METAR  
+- PIlot weather REPortS (PIREPS)  
+  - Pilot generated weather report in flight  
+  - Information provided is usually: cloud tops, turbulence, temperatures, etc.  
+  - Types:  
+    - Urgent PIREP (UUA) \- Severe or extreme weather  
+    - Routine PIREP (UA) \- common weather occurrences  
+  - Uses a prescribed format  
+    - Type  
+    - Location of phenomena  
+    - Time  
+    - Altitude  
+    - Aircraft type  
+    - At least one element to describe reported phenomena  
+- Winds and temperatures aloft forecast   
+  - Winds and temperatures for specific locations  
+  - Wind and temperature  
+    - Direction \= true north  
+    - Speed \= Knots  
+    - First 2 numbers are direction and second 2 are speed  
+    - Temperature above 2400MSL are all negative  
+- AIRMETS  
+  - Weather information that is particularly dangerous to light aircraft  
+  - Issued every 6 hours or updated as needed if conditions change  
+  - Types  
+    - Sierra \- IRF conditions (remember w/ mountains)  
+    - Tango \- Moderate turbulence (remember t for turbulence)  
+    - Zulu \- icing and freezing (z in freezing)  
+- SIGMET  
+  - Non convective weather advisory potentially hazardous to all aircraft  
+  - Valid for 4 hours  
+  - Published as needed  
+  - Issued for  
+    - Severe icing   
+    - Extreme turbulence  
+    - CAT  
+    - Dust or sandstorms  
+    - Volcanic ahs  
+  - Hurricanes is valid for 6 hours  
+- Convective SIGMET  
+  - Hazardous convective activity that is dangerous to all aircraft  
+  - Issued for  
+    - Severe thunderstorms with  
+      - Surface winds over 50 knots  
+      - Hail at the surface greater than ¾ inch or greater in diameter  
+      - Tornados  
+    - Embedded thunderstorms  
+    - Line of thunderstorms (squall line)   
+    - Thunderstorms with heavy or greater precipitation affecting at least 40% of an area   
+  - Hourly refreshed but it can be earlier  
+- Go / no-go decisions  
+  - Set personal minimums and don’t bend them  
+  - Ensure that you have an up-to-date weather briefing and are using an approved source  
+  - Don’t be afraid to cancel or divert a flight for bad weather  
+  - It’s better to be on the ground wishing you were flying than in the air wishing you were on the ground
+
+Prognastic chart
+
+- Shows predictions for weather
+
+Other acronyms
+
+- Automated Surface Observing System (ASOS)  
+- Automatic Terminal Information Service (ATIS)  
+  - Hourly one  
+- Automated Weather Observing System (AWOS)

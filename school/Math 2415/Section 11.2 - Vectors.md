@@ -1,0 +1,52 @@
+# Vectors
+
+### Start
+- A vector is an ordered triple (in space) where <ins>addition</ins> and <ins>multiplication by scalars</ins> holds. Vectors have a direction and length (length$\implies$magnitude or norm)
+- $P = (x,y,z)$    $Q = (a,b,c)$
+	- $\overrightarrow{PQ}=(a+x,b+y,c+z)$
+	- If vector from origin to $Q \implies \overrightarrow{0Q} = (a,b,c)$
+- Vectors can be multiplied by a scalar
+	- If $a=(x,y,z) \implies 2a = (2x,2y,2z)$
+- Norm of vector $a$: $||a||=\sqrt{\mathrm{a_1}^2+\mathrm{a_2}^2+\mathrm{a_3}^2}$
+#### Parallel
+- Two vectors are parallel if $a=\alpha b$ for some real number $\alpha$
+	- $\alpha$ is a scalar multiple
+	- e.x: $(6,-4,8)=2(3,-2,4)$
+	- If $\alpha \gt 0$, then $a$ and $b$ have the same direction
+	- If $\alpha\lt0$ then $a$ and $b$ have opposite direction (opposite direction $\implies$ anti-parallel)
+### Unit Vector
+- $u_a=\frac{a}{||a||}$, $u_a$ has direction $a$, where $a \ne0$
+- There are 3 special unit vectors:
+	- $\hat{i}=(1,0,0)$, $\hat{j}=(0,1,0)$, $\hat{k}=(0,0,1)$
+	- <ins>All vectors</ins> can be represented by a linear combination of these:
+		- $(a_1,a_2,a_3)=a_1\hat{i}+a_2\hat{j}+a_3\hat{k}$
+# Examples
+
+- Find the vector $\overrightarrow{PQ}$  and determine its norm given points $P$ and $Q$
+	- $P = (5,3,2)$    $Q = (-3,1,5)$
+	- $\overrightarrow{PQ} = (-3-5,1-3,5-2)=(-8,-2,3)$
+	- $||{PQ}||=\sqrt{\mathrm{-8}^2+\mathrm{-2}^2+\mathrm{3}^2}=\sqrt{64+4+9}=\sqrt{77}$
+- Set $a=(-5,-2,6)$, $b=(3,0,4)$, $c=(-5,1,5)$; find $4a+b-3c$
+	- $4(-5,-2,6)+(3,0,4)-3(-5,1,5)=(-20,-8,24)+(3,0,4)+(15,-3,-15)=(-2,-11,13)$
+- Are any of the following vectors parallel?
+	- $a=(1,-2,2)$, $b=(2,-1,2)$, $c=(3,-3,6)$, $d=(-2,2,-4)$
+	- $a||c$: $(3,-3,6)=3(1,-1,2)$
+	- $a||d$: $(-2,2,-4)=-2(1,-1,2)$
+		- $\alpha\lt0\implies$ anti-parallel
+	- $c||d$: $(3,-3,6)=-\frac{2}{3}(-2,2,-4)$
+		- $\alpha\lt0\implies$ anti-parallel
+- Calculate the norm of the vector $7\hat{i}+3\hat{j}-4\hat{k}$
+	- $||7\hat{i}+3\hat{j}-4\hat{j}||=(7,3,4)=\sqrt{\mathrm{7}^2+\mathrm{3}^2+\mathrm{4}^2}=\sqrt{74}$
+- Find $\alpha$ given $3\hat{i}+\hat{j}-\hat{k}$ and $\alpha\hat{i}-4\hat{j}+4\hat{k}$ are parallel
+	- $a=(3,1,-1)$, $b=(\alpha,-4,4)$
+	- $b=\beta a$
+	- $(\alpha,-4,4)=\beta(3,1,-2)\implies\alpha=-12$
+- Find $\alpha$ so that the norm of $\alpha\hat{i}+(\alpha-1)\hat{j}+(\alpha+1)\hat{k}$ is 2
+	- Want $\mathrm{||\alpha\hat{i}+(\alpha-1)\hat{j}+(\alpha+1)\hat{k}||}^2=\mathrm{2}^2$
+	- $\mathrm{\alpha}^2+\mathrm{\alpha}^2-2\alpha+1+\mathrm{\alpha}^2+2\alpha+1=4\implies|\alpha|=\sqrt{\frac{2}{3}}\implies\alpha=\pm\sqrt{\frac{2}{3}}$
+- Find a unit vector in the opposite direction of $a=\hat{i}+2\hat{j}-\hat{k}$
+	- $||a||=\sqrt{\mathrm{1}^2+\mathrm{2}^2+\mathrm{1}^2}=\sqrt{6}$
+	- $u_a=\frac{a}{||a||}=\frac{(1,2,-1)}{\sqrt{6}}$
+		- Want $v=-u_a$
+	- Find a vector of norm 2 in the opposite direction of $a=\hat{i}+2\hat{j}-\hat{k}$
+		- $v=-2u_a$

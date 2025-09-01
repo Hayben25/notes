@@ -1,0 +1,211 @@
+Collision Avoidance
+
+- Pilot’s responsibility @ all times w/ VFR  
+- VFR and VMC  
+  - Visual Flight Rules  
+  - Visual Meteorological Conditions  
+- IFR and IMC  
+  - Instrument Flight Rules  
+  - Instrument Meteorological Conditions  
+- Tools to avoid collisions  
+  - Exterior lights  
+  - Radio Transmissions  
+  - Air Traffic Control services  
+- Early detections of aircraft is crucial  
+- Visual scanning  
+  - Haze and reduced visibility make traffic and terrain features appear farther away than their actual distance  
+  - Planes not moving but getting bigger means it is coming towards you  
+  - Blind spots  
+    - High wing above  
+    - Low wing below  
+- Airport Operations  
+  - Extra caution operations near an airport  
+  - Strobes required all the time  
+  - 2 types of airports  
+    - Towered  
+      - ATC is responsible for providing the flow of traffic  
+      - Still pilot’s responsibility to see and avoid  
+    - Nontowered  
+      - Radio communication isn’t required but recommended as good practice  
+- Right of way rules  
+  - EBGAAR  
+    - Emergency  
+    - Ballon  
+    - Glider  
+    - Aircraft refueling  
+    - Airship  
+    - Rotarcraft/airplane  
+  - Overtaking another aircraft  
+    - An overtaking aircraft must pass the slower aircraft on the right and stay well clear  
+  - Approaching another aircraft head-on  
+    - If 2 aircraft are approaching head on both must give way to the right  
+  - Converging with another aircraft  
+    - The aircraft of the same category to the rightmost has the right of way  
+  - Lower aircraft have right of way  
+    - No abuse of this rule  
+- Minimum safe altitudes  
+  - Maintain these altitudes during all flight except during takeoff and landing  
+  - 2 types  
+    - Congested areas  
+      - 1000ft vertical requirement  
+      - 2000ft horizontal radius  
+    - Uncongested Areas  
+      - 500ft above surface  
+      - 500ft from everything else  
+- Airports  
+  - Knowing how to determine the correct runway to use  
+    - ATUS and ATC  
+    - Look at the wind sock  
+  - Night flying   
+    - Human factors  
+- Traffic patterns  
+  - 5 named legs  
+    - Upwind leg  
+    - Crosswind leg  
+    - Downwind leg  
+    - Base leg  
+    - Final approach and departure  
+  - Turn left unless otherwise stated  
+- Runway markings  
+  - Vary between runways  
+  - Usually only marked with only the runway number and a dashed white centerline  
+  - Displaced threshold  
+    - Initial portion of pavement  
+    - Obstructions normally make it impossible to land on it  
+  - Area surrounding the runway for emergencies  
+  - Runway Hold Position sign  
+    - Stop sign  
+    - Located where taxiways intersect with runways  
+    - Consists of 2 solid and 2 dashed  
+    - Aircraft is clear of runway when it is past the solid lines  
+- Taxiway markings  
+  - Non movement area  
+    - ATC contact not required and uncontrolled taxiing  
+  - Movement area  
+    - ATC contact is required for taxiing, takeoff and landing  
+  - Instruction signs  
+    - Mandatory  
+      - Show critical, prohibited, or entrance to a runway  
+      - Red and white  
+    - Location  
+      - Identify taxiway or runway where your aircraft is located  
+      - Yellow on black  
+    - Runway distance  
+      - On sides of runway  
+      - 1,000 ft increments  
+    - Direction signs  
+      - Black on yellow  
+      - Shows direction of turn  
+- Runway Incursion Avoidance  
+  - Where someone is in the wrong spot @ the wrong time and is dangerous  
+  - Avoidance  
+    - Do everything in the cockpit before you taxi  
+    - Look around  
+    - Write down taxi instructions  
+    - Airport diagrams to direct  
+    - Review NOTAMs  
+    - Check for traffic before crossing any runway holding line  
+    - Clear the runway as soon as possible  
+  - Progressive taxi is dope (but ATC doesn't like)  
+- ATC instruction  
+  - Request clarification if necessary  
+  - The final decision to act on ATC instruction rests with PIC  
+  - Nothing wrong with telling a controller you are unable to comply  
+- Land and hold short operations (LAHSO)  
+  - Simultaneous operations are being conducted on intersecting runways  
+  - LAHSO is ATC procedure that may require pilot participation and compliance   
+  - Reduced runway distance  
+  - MUST stop short  
+- Visual Glideslope Indicators  
+  - Red/White lights that help maintain proper glide path  
+  - Want even red and white lights  
+  - Red means too far down  
+  - White means too far up  
+  - Left side of runway  
+- Pilot controlled lighting  
+  - 3-7 clicks on the radio to call for lighting w/ 3 as the lowest  
+- Longitude and Latitude
+
+Sectional Charts
+
+- Charts  
+  - Gives airport data  
+  - Navigational aid  
+  - Terrain  
+  - Congested areas  
+  - Radio frequencies  
+  - Revised every 56 days (as like anything navigational from the FAA)  
+- Terminal area charts  
+  - Zoomed in area of VFR chart (more detailed)  
+- Airspace  
+  - Categories  
+    - Regulatory  
+    - Non regulatory  
+  - Subcategories  
+    - Controlled  
+    - Uncontrolled  
+    - Special Use  
+    - Other  
+  - G is uncontrolled by Government  
+    - Normally ends @ 1200ft  
+    - Can end @ 700ft for certain places (airports, places where the tower wants to have control over VFR traffic to help those flying IFR)  
+  - E is Everywhere Else  
+    - Magenta  
+    - Nothing is needed to go into E airspace  
+    - Lower than 18000ft  
+    - All airspace above 60000ft is E as well  
+  - D is down  
+    - 2500ft  
+    - Surrounding airports have operational control tower  
+    - Unless otherwise stated two way radio  
+    - Supplements around class B or C airspace kinda  
+  - C is Crowed  
+    - Magenta ring  
+    - Two way radio communication  
+    - Once you hear tail number you are cleared to enter unless stated otherwise  
+    - Two way radio and ADSB mode c out required  
+    - Usually 2 circles w/ 5 and 10 mile radius respectively  
+  - B is Busy  
+    - Blue  
+    - Tailored to area  
+    - Has 2+ layers  
+    - Most controlled  
+    - Have to be cleared into the airspace  
+    - Two way radio and ADS-B mode C out required ([see more](https://docs.google.com/document/u/0/d/1Y9eZwp3bt_8C2E8f8wpPDlVFxadWLoX5INIAcScEVsQ/edit))  
+  - A is high Altitude  
+    - 18000ft  
+    - IFR equipment  
+- Special Use Airspace (SUA)  
+  - MCPRAWN  
+    - Military Operating Area (MOA)  
+      - Separates military training from IFR traffic  
+      - Non military aircraft can be cleared  
+      - Can fly through normally  
+    - Controlled firing area  
+    - Prohibited area  
+      - Flight of aircraft is prohibited  
+    - Restricted area  
+      - Hazardous for nonparticipating aircraft  
+      - Ask for permission to fly through  
+    - Alert area  
+      - High volume of pilot training or unusual aerial activity  
+    - Warning area (can be for Water)  
+      - Kinda like restricted area  
+      - US gov doesn’t have sole jurisdiction over the airspace  
+    - National Security Area  
+      - CFAs are not depicted  
+  - Activated by NOTAMs  
+- TFRs  
+  - WVANSS  
+    - Walt Disney  
+    - VIP  
+    - Airshow  
+    - Natural disasters  
+    - Sporting events  
+    - Space ups  
+  - Special flight rules areas (SFRA)  
+    - E.X Can’t fly within 60 nautical miles within DC  
+  - Special Air Traffic Rule (SATR)  
+    - Talk to control towers and consult maps to know what you’re getting into  
+  - Terminal Radar Service Area (TRSA)  
+    - Class D that wants to be a Class C

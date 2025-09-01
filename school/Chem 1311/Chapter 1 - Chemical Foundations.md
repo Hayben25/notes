@@ -1,0 +1,60 @@
+- Matter is anything that occupies space and has mass  
+- 1.1 Atomic theory \- early ideas  
+  - Democritus (460-370 BC) \- Greek philosopher  
+    - Introduced notion of atomism  
+    - Matter is composed of small, invisible particles called atoms  
+    - Not believed by people like Plato, Aristotle  
+      - Idea suppressed for \~2000 years  
+  - John Dalton’s Atomic Theory  
+    - Began modern era of chemistry  
+    - Theory (read these)  
+      - All matter is composed of extremely small indestructible atoms  
+      - All atoms of a given element are identical, but atoms of one element differ from those of another element  
+      - Compounds are composed of more than one element united in fixed proportions  
+      - Chemical reactions only separate, combine or rearrange atoms. They do not create or destroy them (Rejected alchemy)  
+  - Mass laws:  
+    - Law of definite (constant) composition  
+      - All samples of a compound have the same composition regardless of its source  
+        - i.e same fraction by mass of each element present (see postulate 2 and 3\)  
+        - Mass fraction \= total mass of an element in a compound/ mass of a compound   
+          - I.e $H_2O$ has a total mass of 18 amu, since hydrogen is 1 amu the mass of hydrogen in water will always be \~.11 of the compound  
+      - Sample problem  
+        - 84.2 g of pitchblend contains 71.4 g of uranium, how many g of uranium can be obtained from 102 kg of pitchblend  
+          - $\frac{x}{102} = \frac{71.4}{84.2}  x = 86.5$ kg or $86.5*\mathrm{10}^3$ g  
+            - Mass fraction is found from dividing the 71.4 g of uranium by the 84.2 g of pitchblend to find the mass fraction  
+            - Using the mass fraction of pitchblend multiple by 102 kg to find the mass of the uranium in the 102 kg sample of pitchblend   
+    - Law of multiple proportions  
+      - Say you can form many compounds from the same 2 elements and that one of the masses of either of the elements in all compounds  
+        - The masses of the other element in the compounds will occur in the ratio of small whole numbers (postulates 2 & 3\)  
+      - e.x Carbon and oxygen  
+        - Carbon monoxide  
+        - Carbon dioxide  
+        - If the mass of carbon is fixed then mass of O in carbon dioxide/ mass of O in carbon monoxide \= 2  
+    - Law of mass conservation  
+      - Matter cannot be created or destroyed (postulate 4\)  
+      - Reactants $\rightarrow$ products  
+        - Mass of reactants \= mass of products  
+  - Limitations of Dalton's model  
+    - Discovered subatomic particles  
+      - Atom = $\mathrm{e}^-$ + nucleus  
+      - Nucleus \= $\mathrm{p}^+$+n  
+        - $\mathrm{p}^+$ mass = 1$\mu$  
+          - 1$\mu$ = 1 amu  
+        - $\mathrm{e}^-$ mass = $\frac{1}{1836}$
+- 1.2 Modern Atomic Theory
+  - Fig 1.14 in textbook  
+    - Electron cloud  
+      - Much larger than the nucleus  
+    - Nucleus  
+  - Mass relationships of atoms  
+    - Atomic number is the number of protons in each atom  
+    - Most mass is in the nucleus because electrons are very light  
+    - Mass number \= \#protons \+ \#neutrons  
+  - Finding \# of neutrons in an atom \= mass number \- atomic number  
+  - Isotopes have the same number of protons but different mass  
+    - Figure 1-15  
+    - Chemistry mostly depends on number of protons and electrons not neutrons  
+      - Isotopes have similar chemistry and form the same compounds  
+  - $^5_{11}B$ $^{80}_{199}Hg$
+    - 5 protons 6 neutrons 5 electrons  
+    - 80 protons 119 neutrons 80 electrons
