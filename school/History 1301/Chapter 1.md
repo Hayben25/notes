@@ -30,4 +30,56 @@
 	- Corn
 	- Beans
 	- Squash
-- 
+
+# The Olmec
+
+- "Mother" civilization of other civilizations in the America
+- Large scale farming (rubber)
+	- Waterproofing
+	- Trading was big
+- Since they were in central America all trade went through them
+
+# Other Cultures in 500 BC
+
+- Classical period
+- Teotihuacan
+	- Religion
+		- Polytheistic
+		- Itzamma meaning lizard house
+		- Anthropomorphic
+		- The *popul vuh*
+	- Trade
+- Mayans
+	- Astronomy, math, navigation, agriculture
+	- 50+ city states
+	- Political Structure
+		- Hierarchical
+			- King
+			- Aristocrats: based on land ownership
+			- Farmers: 3-4 million
+				- Farming was done on *Chinampa*: or terraced hills
+- Toltec empire
+	- Ruled for like 1,200 years
+- The Aztecs
+	- Government system based on family names
+	- Polytheistic religion
+-
+# Amerindian Cultures
+
+- Adena
+- Hopewell
+- Based near water
+- Great Serpent Mound
+	- Effigy mound
+	- Adena
+- Hopewell Artifacts
+	- Worshiped animals
+	- Advanced craftsmanship and precision
+- Cahokia
+	- 800-1300 AD
+- Mesa Verde
+	- Built houses into the side of cliffs
+	- Very good artisans
+- Chaco Canyon
+	- Pueblo Bonita
+	- Religious Center: Kivas
