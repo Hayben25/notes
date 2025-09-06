@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f1802d9bc0fa1d48",
+        "id": "d4a3cb316306db53",
         "type": "tabs",
         "children": [
           {
-            "id": "b653d9ec0ead675b",
+            "id": "481193ccc430b305",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -160,8 +160,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ]
@@ -183,18 +183,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b653d9ec0ead675b",
+  "active": "481193ccc430b305",
   "lastOpenFiles": [
+    "Math 2415/11.2 - Vectors.md",
+    "Math 2415/11.4 - Cross Product.md",
     "Math 2415/11.3 - The Dot Product.md",
     "Chem 1311/Chapter 2 - Atomic Structure and Periodicity.md",
     "Chem 1311/Chapter 1 - Chemical Foundations.md",
-    "Math 2415/11.4 - Cross Product.md",
     "Engi 1100/Chapter 1.md",
     "Engi 1100/Chapter 4.md",
     "History 1301/Chapter 1.md",
     "Gov 2306/Origins of Government.md",
     "Math 2415/11.1 - Cartesian Space Coordinates.md",
-    "Math 2415/11.2 - Vectors.md",
     "Engi 1100/Chapter 3.md",
     "notes",
     "Flight Academy/Lesson 2.md",
