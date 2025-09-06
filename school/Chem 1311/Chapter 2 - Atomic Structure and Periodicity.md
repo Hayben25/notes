@@ -56,3 +56,31 @@
 - By then knew that electrons orbited the nucleus
 - Bohr proposed severe restriction; only certain orbits (stationary states) are allowed
 	- Each orbit has a particular E $\implies$ E of e$^-$ motion is quantized
+- Showed that for an H atom
+	- $E_n=-R_H(\frac{1}{n^2})$
+	- $R_H=2.18*10^{-18}$ J Rydberg constant
+	- $n$ must be a positive ints (principle quantum #)
+		- Ground state is when $n=1$ (lowest E state)
+		- Excited states are when $n \gt 1$
+	- Radius $\alpha$ $n^2$
+- Figure 2.8
+- Spectrum: $n_i\implies n_f$ 
+	- $\Delta E=[R_H(\frac{1}{n_f^2}]-[R_H(\frac{1}{n_i^2}]=R_H(\frac{1}{n_i^2}-\frac{1}{n_f^2})$ - Rydberg equation
+	- Since photon energy, $E_{photon}=h\nu$, is emitted
+	- $\Delta E=h\nu=R_H(\frac{1}{n_i^2}-\frac{1}{n_f^2})$
+- Example. What is $\lambda$ of photon for $n_i=5\implies n_f=2$ transition of H-atom
+	- $\Delta E = R_H(\frac{1}{n_i^2}-\frac{1}{n_f^2})=2.18*10^{-18}(\frac{1}{25}-\frac{1}{4})=-4.58*10^{-19}J$ 
+	- $\lambda=\frac{c}{\nu}=\frac{c}{|\Delta E|/h}=4.34*10^{-7}(10^9nm)=434nm$
+- Other approach
+	- $\Delta E=h\nu=\frac{hc}{\lambda}\implies R_H^{(J)}(\frac{1}{n_i^2}-\frac{1}{n_f^2})/hc=\frac{1}{\lambda})$
+	- $\frac{1}{\lambda}=R_H|\frac{1}{n_i^2}-\frac{1}{n_f^2}|=\frac{1}{\lambda}$
+	- new $R_H=1.09678*10^{7}m^{-1}$
+
+# Spectacular Success of Bohr's Model Followed By Series of Disappointments
+
+- Only worked for $H,He^+,Li^{2+},...$ (One electron atoms)
+- Don't know where electrons are because particles are waves as well
+
+# 2.6 Quantum Mechanics
+
+- Heisenberg uncertainty principle - it is impossible to know simultaneously both the momentum (p) and the position (x) of a particle with certaintys
