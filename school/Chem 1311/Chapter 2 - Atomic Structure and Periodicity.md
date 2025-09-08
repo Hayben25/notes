@@ -59,7 +59,7 @@
 - Showed that for an H atom
 	- $E_n=-R_H(\frac{1}{n^2})$
 	- $R_H=2.18*10^{-18}$ J Rydberg constant
-	- $n$ must be a positive ints (principle quantum #)
+	- $n$ must be a positive int (principle quantum #)
 		- Ground state is when $n=1$ (lowest E state)
 		- Excited states are when $n \gt 1$
 	- Radius $\alpha$ $n^2$
@@ -83,4 +83,44 @@
 
 # 2.6 Quantum Mechanics
 
-- Heisenberg uncertainty principle - it is impossible to know simultaneously both the momentum (p) and the position (x) of a particle with certaintys
+- Heisenberg uncertainty principle - it is impossible to know simultaneously both the momentum (p) and the position (x) of a particle with certainty
+	- $\Delta x \Delta p \ge h/4\pi$, $\Delta p = m\Delta u$
+- Application to H (problem 67) $\rightarrow e^-$ does not orbit nucleus in a well defined path as Bohr though
+- 1926 Erwin Schrodinger derived equation $\rightarrow$ new era in chemistry and physics
+	- Modern quantum mechanics or wave mechanics
+	- System described by wavefunction: $\psi$ (psi)
+	- Obeys Schrodinger equation: $\hat{H}\psi=E\psi$
+		- States of the system
+	- $\psi^2\rightarrow$ probability of finding system (electron) at that point
+		- Plot it $\rightarrow$ probability distribution = electron density map
+			- Like Fig. 2.11, 2.12
+- Atomic orbital (not orbit) = $\psi$ of $e^-$ in an atom
+	- Described by the geometric picture of $\psi^2$ 
+- Schrodinger equation $\rightarrow$ need 3 quantum numbers to describe orbital (n,$l$,$m_l$)
+
+# 2.7 Quantum Numbers
+
+- Principal quantum number (*n*)
+	- n = 1,2,3 ... as in Rydberg equation
+	- H - atom: n $\rightarrow$ energy of the orbital
+	- Relates. avg. distance from nucleus
+		- ($\rightarrow$ relative orbital size)
+	- Each *n*=shell(level)
+- Angular momentum quantum number ($l$)
+	- $\rightarrow$ shape of the orbital
+	- $l=0\rightarrow n-1$($n=3\implies l=0,1,2$: three subshells)
+<table>
+<tr><td>l</td><td>0</td><td>1</td><td>2</td><td>3</td></tr>
+<tr><td>letter</td><td>s</td><td>p</td><td>d</td><td>f</td></tr>
+</table>
+- Magnetic quantum number ($m_l$)
+	- $\rightarrow$ number of orbitals in each subshell
+		- $m_l=-l,(l+1),..0..(l-1),1$
+		- 2l+1 values (# of orbitals in subshell)
+		- ($l = 2 \implies m_l = -2,-1,0,1,2$)
+- Ex. n=2, l=1 $\rightarrow$ 2p subshell; in subshell have 3 2p orbitals ($m_l=-1,0,1$)(x,y,z)
+	- Total # of orbitals = $n^2$
+		- (n = 2: one s and 3 p orbitals = 4)
+- Ex Give the values of the quantum number in the 4d and 3p subshells
+	- 4d (n=4, l=2) $m_l=-2,-1,0,1,2$
+	- 3
