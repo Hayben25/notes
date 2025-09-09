@@ -91,3 +91,4 @@
 		- Society is centered around the sun
 		- Worshiped their ancestors
 	- Advanced?
+	- Chir
