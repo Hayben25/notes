@@ -108,5 +108,16 @@
 - European views
 	- Had a different idea of freedom
 		- Economic freedom (want to make money)
-	- 
+	- 3 kinds of Europeans
+		- Spanish
+		- English
+		- French
 - Columbus
+- Columbian exchange
+	- Total game changer
+	- Works both ways
+	- Unparalleled transfer of people, goods, and microbes
+- Indigenous demographic disaster
+	- Consequences of contact
+	- 100-200 million people before European contact
+	- 95% wiped out by European disease
