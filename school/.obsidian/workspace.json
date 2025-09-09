@@ -11,14 +11,13 @@
             "id": "9e998a3beecdffe1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Math 2415/11.4 - Cross Product.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "11.4 - Cross Product"
+              "icon": "lucide-table",
+              "title": "Untitled"
             }
           }
         ],
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 2415/Section 11.2 - Vectors.md",
+                "file": "Untitled.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Section 11.2 - Vectors"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -115,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 2415.md",
+                "file": "Untitled.base",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Math 2415"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -144,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 2415/Section 11.2 - Vectors.md",
+                "file": "Untitled.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Section 11.2 - Vectors"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -159,16 +158,16 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,8 +183,11 @@
   },
   "active": "9e998a3beecdffe1",
   "lastOpenFiles": [
-    "Math 2415/11.5 - Lines.md",
+    "Gov 2306/Philosophies and Ideologies in American Government.md",
+    "Untitled.base",
+    "Gov 2306/Origins of Government.md",
     "Math 2415/11.4 - Cross Product.md",
+    "Math 2415/11.5 - Lines.md",
     "Chem 1311/Chapter 2 - Atomic Structure and Periodicity.md",
     "Math 2415/11.2 - Vectors.md",
     "Math 2415/11.3 - The Dot Product.md",
@@ -193,7 +195,6 @@
     "Engi 1100/Chapter 1.md",
     "Engi 1100/Chapter 4.md",
     "History 1301/Chapter 1.md",
-    "Gov 2306/Origins of Government.md",
     "Math 2415/11.1 - Cartesian Space Coordinates.md",
     "Engi 1100/Chapter 3.md",
     "notes",
