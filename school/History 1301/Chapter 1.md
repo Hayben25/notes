@@ -121,3 +121,12 @@
 	- Consequences of contact
 	- 100-200 million people before European contact
 	- 95% wiped out by European disease
+- European advantages in the Americas
+	- Big 3
+		- Spanish
+		- French
+		- English
+	- New types of warfare
+		- Guns and horses
+	- New tactics
+		- More mobile w/ horses
