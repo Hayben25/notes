@@ -91,4 +91,22 @@
 		- Society is centered around the sun
 		- Worshiped their ancestors
 	- Advanced?
-	- Chir
+	- Chiribaya Culture
+		- Southwest Peru and Chile
+		- Maritime and agricultural
+		- EXTENSIVELY COLONIZED
+		- Dogs
+			- Had cemeteries for the dogs and were mummified
+			- Important to culture
+
+# End of Isolation - Contact with Europeans
+
+- Freedom?
+	- Freedom of worship
+	- Freedom of language
+	- Liberty
+- European views
+	- Had a different idea of freedom
+		- Economic freedom (want to make money)
+	- 
+- Columbus
