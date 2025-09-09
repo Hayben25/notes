@@ -130,3 +130,7 @@
 		- Guns and horses
 	- New tactics
 		- More mobile w/ horses
+
+# Definitions
+
+- Ethnicity - sense of individual loyalty towards a group based on shared physical characteristics, religion, language, national origins, and/or economic class
