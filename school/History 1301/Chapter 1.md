@@ -86,5 +86,8 @@
 - Incas
 	- Size matters - the largest empire in the Americas
 		- Took up a large portion of west South America
-	- Son of the sun
+	- Son of the sun - king
+		- Kinda like divine right
+		- Society is centered around the sun
+		- Worshiped their ancestors
 	- Advanced?
