@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2096ab702072d449",
+        "id": "af7d2463c6a16064",
         "type": "tabs",
         "children": [
           {
-            "id": "f437eb0e3653d2b8",
+            "id": "bd77734606557aca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gov 2306/Philosophies and Ideologies in American Government.md",
+                "file": "History 1301/Chapter 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Philosophies and Ideologies in American Government"
+              "title": "Chapter 1"
             }
           }
         ],
@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "cb31e912c14c2de9",
@@ -96,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gov 2306/Philosophies and Ideologies in American Government.md",
+                "file": "History 1301/Chapter 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +107,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Philosophies and Ideologies in American Government"
+              "title": "Backlinks for Chapter 1"
             }
           },
           {
@@ -115,12 +116,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gov 2306/Philosophies and Ideologies in American Government.md",
+                "file": "History 1301/Chapter 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Philosophies and Ideologies in American Government"
+              "title": "Outgoing links from Chapter 1"
             }
           },
           {
@@ -144,13 +145,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gov 2306/Philosophies and Ideologies in American Government.md",
+                "file": "History 1301/Chapter 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Philosophies and Ideologies in American Government"
+              "title": "Outline of Chapter 1"
             }
           },
           {
@@ -168,7 +169,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,10 +184,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f437eb0e3653d2b8",
+  "active": "bd77734606557aca",
   "lastOpenFiles": [
-    "Untitled.base",
+    "History 1301/Chapter 1.md",
     "Gov 2306/Philosophies and Ideologies in American Government.md",
+    "TODO.md",
+    "Untitled.base",
     "Gov 2306/Origins of Government.md",
     "Math 2415/11.4 - Cross Product.md",
     "Math 2415/11.5 - Lines.md",
@@ -195,7 +199,6 @@
     "Chem 1311/Chapter 1 - Chemical Foundations.md",
     "Engi 1100/Chapter 1.md",
     "Engi 1100/Chapter 4.md",
-    "History 1301/Chapter 1.md",
     "Math 2415/11.1 - Cartesian Space Coordinates.md",
     "Engi 1100/Chapter 3.md",
     "notes",
