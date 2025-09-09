@@ -4,20 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6a98fd67e2c36908",
+        "id": "2096ab702072d449",
         "type": "tabs",
         "children": [
           {
-            "id": "9e998a3beecdffe1",
+            "id": "f437eb0e3653d2b8",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.base",
-                "viewName": "Table"
+                "file": "Gov 2306/Philosophies and Ideologies in American Government.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Philosophies and Ideologies in American Government"
             }
           }
         ],
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.base",
+                "file": "Gov 2306/Philosophies and Ideologies in American Government.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for Philosophies and Ideologies in American Government"
             }
           },
           {
@@ -114,12 +115,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.base",
+                "file": "Gov 2306/Philosophies and Ideologies in American Government.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from Philosophies and Ideologies in American Government"
             }
           },
           {
@@ -143,13 +144,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.base",
+                "file": "Gov 2306/Philosophies and Ideologies in American Government.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Philosophies and Ideologies in American Government"
             }
           },
           {
@@ -181,10 +182,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9e998a3beecdffe1",
+  "active": "f437eb0e3653d2b8",
   "lastOpenFiles": [
-    "Gov 2306/Philosophies and Ideologies in American Government.md",
     "Untitled.base",
+    "Gov 2306/Philosophies and Ideologies in American Government.md",
     "Gov 2306/Origins of Government.md",
     "Math 2415/11.4 - Cross Product.md",
     "Math 2415/11.5 - Lines.md",
