@@ -123,4 +123,10 @@
 		- (n = 2: one s and 3 p orbitals = 4)
 - Ex Give the values of the quantum number in the 4d and 3p subshells
 	- 4d (n=4, l=2) $m_l=-2,-1,0,1,2$
-	- 3
+	- 3p (n=3, l=1) $m_l=-1,0,1$
+
+# 2.8 Atomic Orbitals
+
+- What are shapes and extent of orbitals?
+	- See Figs. 2.13-2.18
+- 
