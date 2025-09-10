@@ -159,4 +159,5 @@
 		- See figure 2.20
 		- Therefore, orbitals are split in energy according to E
 			- Like Fig 2.18, 2.22
-- Ground state $e^-$
+- Ground state $e^-$ configuration
+	- Add $e^-$ of each subsequent element to lowest E orbital available (Afbau principle: "build up")
