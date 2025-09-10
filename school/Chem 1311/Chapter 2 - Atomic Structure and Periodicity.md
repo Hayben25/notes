@@ -155,3 +155,8 @@
 		- Closer electrons block full nuclear charge from farther electrons
 		- Think shell law but with electrons instead of shells
 		- $e^-$ in different orbitals - inner $e^-$ shield outer ones from nuclear charge
+	- Orbital E goes $s\lt p\lt d\lt f$
+		- See figure 2.20
+		- Therefore, orbitals are split in energy according to E
+			- Like Fig 2.18, 2.22
+- Ground state $e^-$
