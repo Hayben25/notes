@@ -151,3 +151,7 @@
 	- $e^- \rightarrow$ nucleus (attractive)
 	- $e^- \rightarrow e^-$ (repulsive)
 	- nuclear charge varies indirectly with orbital energy (H, He$^+$ have different energies but same electrons because the charge on an He nucleus is higher than H)
+	- Shielding of nuclear charge:
+		- Closer electrons block full nuclear charge from farther electrons
+		- Think shell law but with electrons instead of shells
+		- $e^-$ in different orbitals - inner $e^-$ shield outer ones from nuclear charge
