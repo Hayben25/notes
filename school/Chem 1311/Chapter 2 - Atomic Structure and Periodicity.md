@@ -115,7 +115,7 @@
 </table>
 - Magnetic quantum number ($m_l$)
 	- $\rightarrow$ number of orbitals in each subshell
-		- $m_l=-l,(l+1),..0..(l-1),1$
+		- $m_l=-l,(l+1),..0..(l-1),l$
 		- 2l+1 values (# of orbitals in subshell)
 		- ($l = 2 \implies m_l = -2,-1,0,1,2$)
 - Ex. n=2, l=1 $\rightarrow$ 2p subshell; in subshell have 3 2p orbitals ($m_l=-1,0,1$)(x,y,z)
@@ -137,3 +137,13 @@
 	- Electron spin quantum # ($m_s$)
 - Electron spin quantum #
 	- $e^-$ acts as if spinning about axis
+	- Spin up $m_s=+\frac{1}{2}$
+	- Spin down $m_s=-\frac{1}{2}$
+
+# 2.9 Electron Configuration
+
+- Each $e^-$ is completely described by 4 quantum numbers:
+	- n,l,$m_l$ for orbital
+	- $m_s$ for spin
+- Pauli exclusion principle
+	- No 2 electrons can have the same set of the 4 quantum numbers
