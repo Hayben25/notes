@@ -4,27 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "9921954673bd59f0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3eb42f4977f0d968",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Misc.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Misc"
-            }
-          }
-        ],
-        "stacked": true
-      },
-      {
         "id": "153696a9ded82fa6",
         "type": "tabs",
         "children": [
@@ -34,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engi 1100/Chapter 4.md",
+                "file": "Math 2415/11.5 - Lines.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 4"
+              "title": "11.5 - Lines"
             }
           }
         ]
@@ -203,7 +182,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3eb42f4977f0d968",
+  "active": "5e8eb69a40bb936f",
   "lastOpenFiles": [
     "Engi 1100/Chapter 4.md",
     "Misc.md",
