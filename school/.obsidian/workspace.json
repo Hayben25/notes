@@ -4,25 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "a3e6efb53f06f1cd",
+        "id": "9921954673bd59f0",
         "type": "tabs",
         "children": [
           {
-            "id": "3476951cb8704694",
+            "id": "3eb42f4977f0d968",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chem 1311/Chapter 2 - Atomic Structure and Periodicity.md",
+                "file": "Misc.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 2 - Atomic Structure and Periodicity"
+              "title": "Misc"
             }
           }
         ],
         "stacked": true
+      },
+      {
+        "id": "153696a9ded82fa6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e8eb69a40bb936f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engi 1100/Chapter 4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 4"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "cb31e912c14c2de9",
@@ -184,9 +203,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3476951cb8704694",
+  "active": "3eb42f4977f0d968",
   "lastOpenFiles": [
     "Engi 1100/Chapter 4.md",
+    "Misc.md",
+    "Chem 1311/Chapter 2 - Atomic Structure and Periodicity.md",
     "History 1301/Chapter 1.md",
     "Gov 2306/Philosophies and Ideologies in American Government.md",
     "TODO.md",
@@ -194,12 +215,10 @@
     "Gov 2306/Origins of Government.md",
     "Math 2415/11.4 - Cross Product.md",
     "Math 2415/11.5 - Lines.md",
-    "Chem 1311/Chapter 2 - Atomic Structure and Periodicity.md",
     "Math 2415/11.2 - Vectors.md",
     "Math 2415/11.3 - The Dot Product.md",
     "Chem 1311/Chapter 1 - Chemical Foundations.md",
     "Engi 1100/Chapter 1.md",
-    "Engi 1100/Chapter 4.md",
     "Math 2415/11.1 - Cartesian Space Coordinates.md",
     "Engi 1100/Chapter 3.md",
     "notes",
