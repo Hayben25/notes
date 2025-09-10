@@ -129,4 +129,11 @@
 
 - What are shapes and extent of orbitals?
 	- See Figs. 2.13-2.18
-- 
+- Many $e^-$ atoms
+	- Schrodinger equation difficult impossible to solve exactly for many atoms
+		- Approximate: use H-atom orbitals whose energies are modified by new interactions
+- n(size only for multiple $e^-$ atoms), l, $m_l$ describe orbital
+	- An additional quantum number to describe $e^-$
+	- Electron spin quantum # ($m_s$)
+- Electron spin quantum #
+	- $e^-$ acts as if spinning about axis
