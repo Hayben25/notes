@@ -147,3 +147,7 @@
 	- $m_s$ for spin
 - Pauli exclusion principle
 	- No 2 electrons can have the same set of the 4 quantum numbers
+- Electrostatic effects
+	- $e^- \rightarrow$ nucleus (attractive)
+	- $e^- \rightarrow e^-$ (repulsive)
+	- nuclear charge varies indirectly with orbital energy (H, He$^+$ have different energies but same electrons because the charge on an He nucleus is higher than H)
