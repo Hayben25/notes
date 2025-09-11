@@ -134,3 +134,51 @@
 # Definitions
 
 - Ethnicity - sense of individual loyalty towards a group based on shared physical characteristics, religion, language, national origins, and/or economic class
+- Assimilation - adoption of a different ethnic identity
+	- Stage 1 - acculturation
+		- The process by which an individual adopts the language, material and popular culture of another group
+	- Stage 2 - secondary assimilation
+		- Involuntary contact with other ethnic groups in a public place
+	- Stage 3 - primary assimilation
+		- Voluntary contact with other ethnic groups
+	- Stage 4 - amalgamation
+		- Private contact with other ethnic groups
+
+# Early American Groups
+
+- Indigenous/Native Americans
+	- Demographics
+		- 1492
+		- 1607
+		- 1776
+		- 1870
+		- 1910
+		- 2010 - 2 million 
+- Indigenous Ethnicity
+	- Physical differences
+	- Religion
+		- Polytheistic
+		- Animistic
+		- Shamanistic
+		- Sacred people-hood
+		- Sense of sacred space
+	- Environmental adaptation
+		- Foraging 
+		- Hunting
+		- Farming
+		- Fishing
+
+# Europeans Come Calling
+
+- Causes
+	- Push Factors
+		- Religious persecution
+		- Low economic opportunities
+		- War
+		- Political persecution
+	- Pull Factors
+		- Land
+		- Economic prosperity
+		- Religious freedom
+			- Not entirely
+		- 
