@@ -68,3 +68,7 @@
 	- The notion that the use of force by the government should be strictly limited by a constitution, whether formal or informal, which outlines when and how the government may act
 	- James Buchanan, Nobel prize winning economist and constitutional theorist, argued that setting the Constitutional limits should be done with near unanimity, while "ordinary politics" can be done with majority rule or other agreed standards
 	- This is closely related to social contract theory, but constitutional constraints are more specific and formal than the general principles of social contract theory
+- Defining limits on government force
+	- Social contract theory: Individuals consent to give up some freedom (submit to some coercion) in exchange for protection of their rights
+	- Thomas Hobbes, argues that the social contract is necessary to prevent the "war of all against all" and that the government should have nearly unlimited power to prevent this
+	- John Locke, argued that there are still basic 

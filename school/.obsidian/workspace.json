@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "cb31e912c14c2de9",
@@ -184,13 +185,14 @@
   },
   "active": "5e8eb69a40bb936f",
   "lastOpenFiles": [
+    "Assignments/hcianess_Assignment2.md",
+    "Gov 2306/Philosophies and Ideologies in American Government.md",
+    "Assignments",
     "Math 2415/11.6 - Planes.md",
     "Math 2415/11.5 - Lines.md",
     "Engi 1100/Chapter 4.md",
-    "Misc.md",
     "Chem 1311/Chapter 2 - Atomic Structure and Periodicity.md",
     "History 1301/Chapter 1.md",
-    "Gov 2306/Philosophies and Ideologies in American Government.md",
     "TODO.md",
     "Untitled.base",
     "Gov 2306/Origins of Government.md",
@@ -218,7 +220,6 @@
     "Untitled.canvas",
     "Math 2415",
     "Math Notation in Markdown.md",
-    "Pasted image 20250831191248.png",
-    "Welcome.md"
+    "Pasted image 20250831191248.png"
   ]
 }
