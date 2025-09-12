@@ -176,3 +176,11 @@
 - Ions Produced (Main Gp)
 	- Tendency: obtain filled outer level (noble gas configuration)
 	- 3A, 4A, & 5A groups lose their s & p orbitals to become more stable
+
+# 2.10 Physical Properties
+
+- Atomic size:
+	- Increases opposite the charge of atom along a period and increases as the period increases
+	- Transition elements the trend is not as dramatic
+- Ionic radius:
+	- affects properties of ionic compounds [we]
