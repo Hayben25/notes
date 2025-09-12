@@ -161,3 +161,7 @@
 			- Like Fig 2.18, 2.22
 - Ground state $e^-$ configuration
 	- Add $e^-$ of each subsequent element to lowest E orbital available (Afbau principle: "build up")
+	- Orbitals stray from their original energy levels due to their multitude of electrons deflecting each other
+- Hund's Rule
+	- When orbitals have same E, the most stable arrangement has the greatest # of parallel spins
+		- pg 82
