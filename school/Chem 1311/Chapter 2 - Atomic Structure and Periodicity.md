@@ -172,4 +172,7 @@
 - $e^-$ configuration of S, Hg, Pd
 	- Sulfur - [Ne]3s$^2$ 3p$^4$
 	- Mercury - [Xe]6s$^2$ 4f$^{14}$ 5d$^{10}$ 
-	- Palladium - [Kr] 4d$^8$ 
+	- Palladium - [Kr] 4d$^{10}$
+- Ions Produced (Main Gp)
+	- Tendency: obtain filled outer level (noble gas configuration)
+	- 3A, 4A, & 5A groups lose their s & p orbitals to become more stable
