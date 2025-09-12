@@ -165,3 +165,7 @@
 - Hund's Rule
 	- When orbitals have same E, the most stable arrangement has the greatest # of parallel spins
 		- pg 82
+- Chromium and Copper take an electron from 4s orbital and add it to the 3d subshell
+- Valence shell - highest n (outermost shell)
+	- Valence $e^-$ are the ones in the valence shell
+- Core $e^-$ - lower E level
