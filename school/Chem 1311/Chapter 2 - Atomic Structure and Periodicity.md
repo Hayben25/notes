@@ -169,3 +169,7 @@
 - Valence shell - highest n (outermost shell)
 	- Valence $e^-$ are the ones in the valence shell
 - Core $e^-$ - lower E level
+- $e^-$ configuration of S, Hg, Pd
+	- Sulfur - [Ne]3s$^2$ 3p$^4$
+	- Mercury - [Xe]6s$^2$ 4f$^{14}$ 5d$^{10}$ 
+	- Palladium - [Kr] 4d$^8$ 
