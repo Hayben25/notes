@@ -1,3 +1,10 @@
 {
-  "cssTheme": "Minimal"
+  "cssTheme": "Minimal",
+  "theme": "obsidian",
+  "enabledCssSnippets": [],
+  "accentColor": "#e53d1f",
+  "interfaceFontFamily": "Source Code Pro",
+  "textFontFamily": "Source Code Pro",
+  "monospaceFontFamily": "Source Code Pro",
+  "nativeMenus": true
 }
