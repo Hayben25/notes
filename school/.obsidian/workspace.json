@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 2415/12.1 - Vector Functions.md",
+                "file": "Math 2415/11.6 - Planes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12.1 - Vector Functions"
+              "title": "11.6 - Planes"
             }
           }
         ]
@@ -184,8 +184,9 @@
   },
   "active": "5e8eb69a40bb936f",
   "lastOpenFiles": [
-    "Math 2415/11.6 - Planes.md",
     "Math 2415/12.1 - Vector Functions.md",
+    "Math 2415/12.2 - Differentiation formulas.md",
+    "Math 2415/11.6 - Planes.md",
     "Chem 1311/Chapter 3 - Bonding.md",
     "Chem 1311/Chapter 2 - Atomic Structure and Periodicity.md",
     "Assignments/hcianess_Assignment2.md",
@@ -216,7 +217,6 @@
     "Gov 2306",
     "History 1301",
     "Engi 1100",
-    "Chem 1311/1st day stuff.md",
     "Chem 1311",
     "Untitled.canvas",
     "Math 2415",
