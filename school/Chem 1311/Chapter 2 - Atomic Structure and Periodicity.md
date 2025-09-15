@@ -198,5 +198,5 @@
 		- Group 2A vs Group 3A
 			- ns$^2$np$^1$
 				- s $e^-$ shields p $e^- \implies$ easier to remove $e^-$ for same n
-			- Group 3A will have lower 
+			- Group 3A will have lower $IE_1$
 		- 
