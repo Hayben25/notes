@@ -199,4 +199,14 @@
 			- ns$^2$np$^1$
 				- s $e^-$ shields p $e^- \implies$ easier to remove $e^-$ for same n
 			- Group 3A will have lower $IE_1$
-		- 
+		- Group 5A and Group 6A
+			- Group 6A is easier to remove
+		- Which has higher $IE_2$ Li or Be
+			- Be because it's going to a more stable configuration 
+			- Li$^+$ (1s$^2$) Be$^2$ (1s$^2$ 2s$^1$)
+- Electron affinity
+	- X(g) + $e^-\rightarrow$ X$^-$(g) $\Delta$E=EA$_1$ (1 mol of $e^-$)
+		- Trends not as regular
+		- Smaller atoms have a higher electron affinity (more negative)
+		- Bigger difference across period than through group
+			- (Cl > Br > S > Se)
