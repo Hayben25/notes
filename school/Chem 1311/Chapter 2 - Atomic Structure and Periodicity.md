@@ -191,4 +191,12 @@
 		- Called first ionization energy because $IE_1$
 	- $X^+(g)\rightarrow X^{2+}(g)+e^- \implies \Delta E = IE_2(\gt IE_1)$
 		- Called second ionization energy because $IE_2$
-	- 
+	- Low $IE_1$ $\underrightarrow{often}$ cations in reactions
+	- High $IE_1$ $\underrightarrow{often}$ anions in reactions
+	- Metals normally have lower $IE_1$ than nonmetals
+	- Exceptions to trend
+		- Group 2A vs Group 3A
+			- ns$^2$np$^1$
+				- s $e^-$ shields p $e^- \implies$ easier to remove $e^-$ for same n
+			- Group 3A will have lower 
+		- 
