@@ -183,4 +183,6 @@
 	- Increases opposite the charge of atom along a period and increases as the period increases
 	- Transition elements the trend is not as dramatic
 - Ionic radius:
-	- affects properties of ionic compounds [we]
+	- affects properties of ionic compounds
+	- Atom to anion: $\uparrow$ in size
+	- Atom to cation: $\downarrow$ in size
