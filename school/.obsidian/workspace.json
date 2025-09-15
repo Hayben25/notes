@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chem 1311/Chapter 3 - Bonding.md",
+                "file": "Math 2415/11.6 - Planes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 3 - Bonding"
+              "title": "11.6 - Planes"
             }
           }
         ]
@@ -185,8 +185,8 @@
   },
   "active": "5e8eb69a40bb936f",
   "lastOpenFiles": [
-    "Chem 1311/Chapter 2 - Atomic Structure and Periodicity.md",
     "Chem 1311/Chapter 3 - Bonding.md",
+    "Chem 1311/Chapter 2 - Atomic Structure and Periodicity.md",
     "Assignments/hcianess_Assignment2.md",
     "Engi 1100/Chapter 5.md",
     "History 1301/Chapter 1.md",
