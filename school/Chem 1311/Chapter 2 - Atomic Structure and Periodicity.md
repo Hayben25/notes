@@ -186,3 +186,9 @@
 	- affects properties of ionic compounds
 	- Atom to anion: $\uparrow$ in size
 	- Atom to cation: $\downarrow$ in size
+- Ionization Energy
+	- $X(g) \rightarrow X^+(g)+e^- \implies \Delta E=IE_1\gt0$ (for 1 mol of $e^-$)
+		- Called first ionization energy because $IE_1$
+	- $X^+(g)\rightarrow X^{2+}(g)+e^- \implies \Delta E = IE_2(\gt IE_1)$
+		- Called second ionization energy because $IE_2$
+	- 
