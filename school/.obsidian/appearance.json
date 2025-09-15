@@ -1,10 +1,14 @@
 {
   "cssTheme": "Minimal",
   "theme": "obsidian",
-  "enabledCssSnippets": [],
+  "enabledCssSnippets": [
+    "Font"
+  ],
   "accentColor": "#e53d1f",
-  "interfaceFontFamily": "Source Code Pro",
-  "textFontFamily": "Source Code Pro",
-  "monospaceFontFamily": "Source Code Pro",
-  "nativeMenus": true
+  "interfaceFontFamily": "JetBrains Mono",
+  "textFontFamily": "JetBrains Mono",
+  "monospaceFontFamily": "JetBrains Mono",
+  "nativeMenus": true,
+  "baseFontSize": 19,
+  "baseFontSizeAction": true
 }
