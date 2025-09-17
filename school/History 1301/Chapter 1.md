@@ -181,4 +181,10 @@
 		- Economic prosperity
 		- Religious freedom
 			- Not entirely
-		- 
+	- Immigrant personality
+		- Optimistic
+		- Resilience
+		- Adaptive
+		- Opportunistic
+		- Overwhelmingly young
+		- Work ethic
