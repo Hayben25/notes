@@ -12,6 +12,10 @@
 - Federalism: separation of powers between levels of government - state/federal
 - The addition of the Bill of Rights (1$^{st}$ 10 Amendments)
 
-# 2.8 Splitting up power to prevent abuse
+# 2.8-2.12 Splitting up power to prevent abuse
 
 - *Separate power* among competing groups with different agendas
+- The power of one group *balances* the power of competing groups
+- The competing interests force the groups to *check* each other's power
+- No one group or individual can dominate
+
