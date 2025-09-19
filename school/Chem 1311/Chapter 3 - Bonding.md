@@ -48,6 +48,19 @@ Models for chemical bonding
 	- H - +$\delta$ Cl - -$\delta$
 	- Called a dipole moment (vectors)
 	- This example is specifically a polar bond because the cloud doesn't move entirely around Cl
-- How predict polar and nonpolar bonds or even ionic bonds?
+- How predict polar and non-polar bonds or even ionic bonds?
 	- Electronegativity is an atoms ability to attract electron density within a chemical bond
 	- Different from electron affinity because EA is when it is the sole atom in it's gas state
+	- Linus Pauling - devised a scale
+		- Figure 3.4
+
+# 3.5 Drawing Lewis Structures
+
+- Usual approach:
+	1. Write skeletal structure (atoms bonded to each other)
+		- Put least electronegative atom in the center
+			- Lowest group # then if they are the same group the higher period (lower on the table, higher refers to the period #)
+		- H and F usually occupy terminal position
+	2. Count total # of e$^-$ available 
+	3. Draw single bonds from central atoms to surrounding ones
+	4. If the octet rule not met by central atom, try double and triple bonds
