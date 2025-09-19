@@ -64,3 +64,13 @@ Models for chemical bonding
 	2. Count total # of e$^-$ available 
 	3. Draw single bonds from central atoms to surrounding ones
 	4. If the octet rule not met by central atom, try double and triple bonds
+
+# Formal Charges
+
+- Difference between # of valence e$^-$ of isolated atom and # assigned to it in the Lewis structure
+	- $\rightarrow$ e$^-$ distribution and most plausible structure
+- formal charge = total # of valence e$^-$ - total # of non-bonding e$^-$ -$\frac{1}{2}$(total # bonding e$^-$)
+- Use to select plausible structure:
+	- Neutral molecules prefer model with no formal charges
+	- Structures with large formal charges ($\pm$ 2, $\pm$ 3, ...) less plausible than those with small formal charges
+	- Similar formal charge distribution: most plausible is one with - charge on more electronegative atom
