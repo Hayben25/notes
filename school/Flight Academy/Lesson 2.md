@@ -156,3 +156,4 @@ Electrical system
 - Gear reduction box  
   - Tecnam P2002S has a gear reduction of 2.4:1  
     - Everytime prop spins the engine spins 2.4 times
+[[flight-academy]] 

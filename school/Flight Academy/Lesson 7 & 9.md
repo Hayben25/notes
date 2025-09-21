@@ -282,3 +282,4 @@ Other acronyms
 - Automatic Terminal Information Service (ATIS)  
   - Hourly one  
 - Automated Weather Observing System (AWOS)
+[[flight-academy]] 

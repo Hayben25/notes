@@ -209,3 +209,4 @@ Sectional Charts
     - Talk to control towers and consult maps to know what you’re getting into  
   - Terminal Radar Service Area (TRSA)  
     - Class D that wants to be a Class C
+	[[flight-academy]] 

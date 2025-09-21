@@ -18,3 +18,4 @@ Hayden Cianessi - hcianess@cougarnet.uh.edu
 	- $A(20)=943.36$
 	- $A(25)=536.5$ 
 	- Since $A$ increases as $r$ approaches 14.59 and decreases as it increases past $r=14.59$, it can be  assumed that there is a maximum between $r=10$ and $r=20$ meaning that our answer from 5 of $r\approx14.49$ holds true.
+	[[engi1100]]

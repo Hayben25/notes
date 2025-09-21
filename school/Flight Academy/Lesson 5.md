@@ -88,6 +88,5 @@ Light Gun Signals
   - Magnetic Compass  
   - Emergency Location Transmitter (ELT)  
   - Safety Belts
-
-    
+[[flight-academy]] 
 

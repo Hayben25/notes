@@ -81,3 +81,4 @@
 	- Tools to analyze collective action, governance structures, solutions
 	- Not historical records, but conceptual maps
 	- Like a simplified city map: highlights major structures, allows navigation
+[[gov2306]]

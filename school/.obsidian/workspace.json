@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "4441808a503dd1b5",
+    "id": "1b647f8c1629ae5e",
     "type": "split",
     "children": [
       {
-        "id": "153696a9ded82fa6",
+        "id": "621c66d86a65ab2c",
         "type": "tabs",
         "children": [
           {
-            "id": "5e8eb69a40bb936f",
+            "id": "134e750a481da996",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chem 1311/Chapter 3 - Bonding.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chapter 3 - Bonding"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -27,15 +23,28 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "747cc6e0bb9941a2",
+    "id": "a54a87ba00a5e36f",
     "type": "split",
     "children": [
       {
-        "id": "80d380b6196c2cf9",
+        "id": "12139f79fbd61c37",
         "type": "tabs",
         "children": [
           {
-            "id": "e8bcf52863786745",
+            "id": "557e6230a74b05d8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "79dc2b999fc207c1",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -52,7 +61,7 @@
             }
           },
           {
-            "id": "78f87907a69f5ac6",
+            "id": "3b585cae04551c95",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -60,43 +69,27 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "92c1dfb6e9c7081d",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "cb31e912c14c2de9",
+    "id": "0820487da3e1b86d",
     "type": "split",
     "children": [
       {
-        "id": "69a4ed73ea9d9966",
+        "id": "89f5d6f2a5aaec24",
         "type": "tabs",
         "children": [
           {
-            "id": "22fc86d9e712636e",
+            "id": "0c761a5777e0fbaa",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engi 1100/Chapter 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Chapter 4"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "d4b5917219b2d763",
+            "id": "edb2c80bbd3a4e82",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engi 1100/Chapter 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Chapter 4"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "6b929e81d803da40",
+            "id": "a2291bdfa6c3ff4d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -139,22 +131,21 @@
             }
           },
           {
-            "id": "a3052fe13e394b87",
+            "id": "22110837ddda7429",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engi 1100/Chapter 4.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapter 4"
+              "title": "Outline"
             }
           },
           {
-            "id": "d48aa5c115378636",
+            "id": "925abbc1660af9b8",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -183,44 +174,33 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5e8eb69a40bb936f",
+  "active": "134e750a481da996",
   "lastOpenFiles": [
-    "Gov 2306/Constitutional Safeguards and Federalism.md",
-    "Gov 2306/Philosophies and Ideologies in American Government.md",
-    "Math 2415/12.5 - Curvilinear Motion Curvature.md",
-    "Math 2415/12.4 Arc Length.md",
-    "Math 2415/12.3 - Curves.md",
-    "Math 2415/12.2 - Differentiation formulas.md",
-    "Chem 1311/Chapter 3 - Bonding.md",
-    "Engi 1100/Spreadsheets.md",
-    "History 1301/Origins of American Government.md",
-    "History 1301/Chapter 1.md",
-    "Math 2415/11.6 - Planes.md",
-    "Math 2415/12.1 - Vector Functions.md",
-    "Chem 1311/Chapter 2 - Atomic Structure and Periodicity.md",
     "Assignments/hcianess_Assignment2.md",
-    "Engi 1100/Chapter 5.md",
-    "Assignments",
-    "Math 2415/11.5 - Lines.md",
-    "Engi 1100/Chapter 4.md",
-    "TODO.md",
-    "Untitled.base",
-    "Gov 2306/Origins of Government.md",
-    "Math 2415/11.4 - Cross Product.md",
-    "Math 2415/11.2 - Vectors.md",
-    "Math 2415/11.3 - The Dot Product.md",
+    "Chem 1311/Chapter 3 - Bonding.md",
+    "Chem 1311/Chapter 2 - Atomic Structure and Periodicity.md",
     "Chem 1311/Chapter 1 - Chemical Foundations.md",
-    "Engi 1100/Chapter 1.md",
-    "Math 2415/11.1 - Cartesian Space Coordinates.md",
+    "Chem 1311/1st day stuff.md",
+    "Chem 1311/chem1311.md",
+    "Engi 1100/Chapter 5.md",
+    "Engi 1100/Chapter 4.md",
     "Engi 1100/Chapter 3.md",
-    "notes",
-    "Flight Academy",
-    "Gov 2306",
-    "History 1301",
-    "Engi 1100",
-    "Chem 1311",
-    "Untitled.canvas",
-    "Math 2415",
-    "Pasted image 20250831191248.png"
+    "Engi 1100/Chapter 1.md",
+    "Engi 1100/engi1100.md",
+    "Flight Academy/Lesson 7 & 9.md",
+    "Flight Academy/Lesson 5.md",
+    "Flight Academy/Lesson 4.md",
+    "Flight Academy/Lesson 3.md",
+    "Flight Academy/Lesson 2.md",
+    "Flight Academy/Lesson 1.md",
+    "Flight Academy/flight-academy.md",
+    "Gov 2306/Philosophies and Ideologies in American Government.md",
+    "Gov 2306/Origins of Government.md",
+    "Gov 2306/gov2306.md",
+    "Gov 2306/Constitutional Safeguards and Federalism.md",
+    "History 1301/Origins of American Government.md",
+    "History 1301/hist1301.md",
+    "History 1301/Chapter 1.md",
+    "Math 2415/12.1 - Vector Functions.md"
   ]
 }

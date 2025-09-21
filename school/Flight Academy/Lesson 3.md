@@ -140,4 +140,4 @@ Center of gravity
   - Inner wing travels shorter distance  
     - Lower speed less lift  
   - Plane wants to continue with momentum from outer wing
-
+[[flight-academy]] 

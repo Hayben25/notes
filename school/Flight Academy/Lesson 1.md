@@ -132,4 +132,5 @@ Type \- Specifications of the aircraft name (Technam mentor)
   - Continuing education  
 - Aircraft Owners and Pilots Association (AOPA)   
   - Education, legal services, loans, and insurance
+[[flight-academy]] 
 

@@ -1,5 +1,5 @@
 {
-  "readableLineLength": false,
-  "newLinkFormat": "relative",
-  "vimMode": true
+  "vimMode": true,
+  "strictLineBreaks": false,
+  "readableLineLength": false
 }

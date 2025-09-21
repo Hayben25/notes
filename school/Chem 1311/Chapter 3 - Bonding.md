@@ -74,3 +74,4 @@ Models for chemical bonding
 	- Neutral molecules prefer model with no formal charges
 	- Structures with large formal charges ($\pm$ 2, $\pm$ 3, ...) less plausible than those with small formal charges
 	- Similar formal charge distribution: most plausible is one with - charge on more electronegative atom
+[[chem1311]]

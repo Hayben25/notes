@@ -1,6 +1,5 @@
 [
-  "obsidian-hider",
-  "obsidian-git",
   "obsidian-minimal-settings",
-  "obsidian-style-settings"
+  "obsidian-git",
+  "obsidian-hider"
 ]

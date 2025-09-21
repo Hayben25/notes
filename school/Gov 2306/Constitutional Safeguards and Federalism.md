@@ -19,3 +19,4 @@
 - The competing interests force the groups to *check* each other's power
 - No one group or individual can dominate
 
+[[gov2306]]

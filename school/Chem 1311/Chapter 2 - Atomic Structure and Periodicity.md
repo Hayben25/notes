@@ -210,3 +210,4 @@
 		- Smaller atoms have a higher electron affinity (more negative)
 		- Bigger difference across period than through group
 			- (Cl > Br > S > Se)
+[[chem1311]]

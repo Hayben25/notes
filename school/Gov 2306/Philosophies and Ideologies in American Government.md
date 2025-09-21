@@ -135,3 +135,4 @@
 		- New citizens are compelled to participate, there is no opportunity to consent
 		- The Constitution failed to protect natural rights especially with regard to slavery
 		- US government rules by coercion, not consent
+[[gov2306]]

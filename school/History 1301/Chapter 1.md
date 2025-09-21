@@ -188,3 +188,4 @@
 		- Opportunistic
 		- Overwhelmingly young
 		- Work ethic
+[[hist1301]] 

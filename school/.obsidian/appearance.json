@@ -1,14 +1,4 @@
 {
   "cssTheme": "Minimal",
-  "theme": "obsidian",
-  "enabledCssSnippets": [
-    "Font"
-  ],
-  "accentColor": "#e53d1f",
-  "interfaceFontFamily": "JetBrains Mono",
-  "textFontFamily": "JetBrains Mono",
-  "monospaceFontFamily": "JetBrains Mono",
-  "nativeMenus": true,
-  "baseFontSize": 19,
-  "baseFontSizeAction": true
+  "baseFontSize": 20
 }
