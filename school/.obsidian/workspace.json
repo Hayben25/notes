@@ -13,12 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 2415/13.1 - Domain and Range.md",
+                "file": "Gov 2306/Bill of Rights.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "13.1 - Domain and Range"
+              "title": "Bill of Rights"
             }
           }
         ]
@@ -178,10 +179,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "134e750a481da996",
+  "active": "557e6230a74b05d8",
   "lastOpenFiles": [
-    "Math 2415/13.2 - Graphs Level Curves and Surfaces.md",
     "Math 2415/13.1 - Domain and Range.md",
+    "Gov 2306/Bill of Rights.md",
+    "Math 2415/13.2 - Graphs Level Curves and Surfaces.md",
     "Math 2415/12.5 - Curvilinear Motion Curvature.md",
     "Chem 1311/Chapter 4 - Resonance.md",
     "Chem 1311/Chapter 3 - Bonding.md",
@@ -205,7 +207,6 @@
     "Flight Academy/Lesson 3.md",
     "Flight Academy/Lesson 2.md",
     "Flight Academy/Lesson 1.md",
-    "Flight Academy/flight-academy.md",
-    "Gov 2306/Philosophies and Ideologies in American Government.md"
+    "Flight Academy/flight-academy.md"
   ]
 }
