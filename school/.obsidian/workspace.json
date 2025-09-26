@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chem 1311/Chapter 2 - Atomic Structure and Periodicity.md",
+                "file": "Parabola linux/Differences in install iso.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 2 - Atomic Structure and Periodicity"
+              "title": "Differences in install iso"
             }
           }
         ]
@@ -181,6 +181,9 @@
   },
   "active": "134e750a481da996",
   "lastOpenFiles": [
+    "Chem 1311/Chapter 2 - Atomic Structure and Periodicity.md",
+    "Parabola linux/Differences in install iso.md",
+    "Parabola linux",
     "Chem 1311/Chapter 1 - Chemical Foundations.md",
     "Gov 2306/Bill of Rights.md",
     "Math 2415/13.1 - Domain and Range.md",
@@ -193,7 +196,6 @@
     "Gov 2306/Constitutional Safeguards and Federalism.md",
     "Chem 1311/back",
     "Assignments/hcianess_Assignment2.md",
-    "Chem 1311/Chapter 2 - Atomic Structure and Periodicity.md",
     "Chem 1311/1st day stuff.md",
     "Chem 1311/chem1311.md",
     "Engi 1100/Chapter 5.md",
@@ -206,7 +208,6 @@
     "Flight Academy/Lesson 4.md",
     "Flight Academy/Lesson 3.md",
     "Flight Academy/Lesson 2.md",
-    "Flight Academy/Lesson 1.md",
-    "Flight Academy/flight-academy.md"
+    "Flight Academy/Lesson 1.md"
   ]
 }
