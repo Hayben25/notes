@@ -1,0 +1,49 @@
+## 5 Basic Molecular Shapes
+
+- Linear
+	- 180$\degree$
+- Trigonal planar
+	- 120$\degree$ 
+- Tetrahedral
+	- 109.5$\degree$
+- Trigonal bi-pyramidal
+	- 90$\degree$ 120$\degree$
+- Octahedral
+	- 90$\degree$
+- Approach
+	- Write a Lewis structure. Consider only e$^-$ groups around central atom
+	- Count # of e$^-$ groups around central atom
+		- bonding + lone pairs
+		- treat double, triple bonds as single bonds
+	- Use table 4.1 - 4.3 to predict structure
+	- For bond angles
+		- Repulsion
+			- lone pair - lone pair > lone pair - bonding pair > bonding pair - bonding pair
+	- If > 1 resonance structure can apply VSEPR to any of them
+- Examples
+	- AX$_n$ A - central atom, n = 2 to 6
+		- Geometries:
+			- Linear 180$\degree$ for n = 2
+			- Trigonal planar 120$\degree$ for n = 3
+			- Tetrahedral 109.5$\degree$ for n = 4
+			- Trigonal bi-pyramidal 90$\degree$ 120$\degree$ n = 5
+			- Octahedral 90$\degree$ n = 6
+	- Central Atom w/ $\ge$ 1 lone pair AX$_n$E$_m$
+		- **Important**
+			- Geometry determined only by the arrangement of nuclei (not lone pairs)
+		- AX$_2$E
+			- Electron group arrangement: Trigonal planar
+			- Geometry is bent (angular, v shaped)
+			- But, as in book: assume no distortion for angles $\ge$ 120
+		- AX$_3$E
+			- Tetrahedral for electron group arrangement
+			- But geometry is trigonal pyramidal $\le$ 109.5
+		- AX$_2$E$_2$
+			- Tetrahedral e$^-$ group arrangement
+			- Bent geometry $\le$ 109.5
+		- AX$_4$E
+			- Trigonal bi-pyramidal e$^-$ groups
+			- Lone pair goes at the equatorial position because angle at equatorial position is 120$\degree$ is bigger then the 90$\degree$ at axial
+- Effect of double bond
+	- Repels more
+- 
