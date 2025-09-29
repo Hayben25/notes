@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 2415/13.2 - Graphs Level Curves and Surfaces.md",
+                "file": "Math 2415/13.3 - Limits and Continuity.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "13.2 - Graphs Level Curves and Surfaces"
+              "title": "13.3 - Limits and Continuity"
             }
           }
         ]
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0820487da3e1b86d",
@@ -181,8 +182,9 @@
   },
   "active": "134e750a481da996",
   "lastOpenFiles": [
-    "Math 2415/13.1 - Domain and Range.md",
     "Math 2415/13.2 - Graphs Level Curves and Surfaces.md",
+    "Math 2415/13.3 - Limits and Continuity.md",
+    "Math 2415/13.1 - Domain and Range.md",
     "Chem 1311/Chapter 4 - Resonance.md",
     "Math 2415/12.5 - Curvilinear Motion Curvature.md",
     "Math 2415/12.4 Arc Length.md",
@@ -207,7 +209,6 @@
     "Flight Academy/Lesson 5.md",
     "Flight Academy/Lesson 4.md",
     "Flight Academy/Lesson 3.md",
-    "Flight Academy/Lesson 2.md",
-    "Flight Academy/Lesson 1.md"
+    "Flight Academy/Lesson 2.md"
   ]
 }
