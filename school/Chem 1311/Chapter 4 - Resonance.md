@@ -44,6 +44,40 @@
 		- AX$_4$E
 			- Trigonal bi-pyramidal e$^-$ groups
 			- Lone pair goes at the equatorial position because angle at equatorial position is 120$\degree$ is bigger then the 90$\degree$ at axial
+			- Geometry is distorted tetrahedron or seesaw (Table 4.3)
+				- See fig. 4.6b for others
 - Effect of double bond
 	- Repels more
+
+## 4.2 Dipole Moments
+
+- Recall H$--$Cl
+	-       $\delta$+    $\delta$ -
+	- Which makes a polar bond
+		- Makes a dipole moment
+- Dipole moment ($\mu$) - quantitative measure of polarity
+	- $\mu = \delta * d$
+		- $\delta=$ magnitude of charge
+		- $d=$ charge separation
+		- $\mu \gt 0$
+		- Units = debye (D); $1D=3.33*10^{-30} C*m$ 
+		- Direction of moment has direction of negative dipole
+- Ex. CO$_2$ (triatomic)
+	- Possible shapes are linear or bent
+	- If linear, the 2 C-O bonds cancel out making $\mu=0$
+	- If bent, the 2 C-O bonds don't cancel out making $\mu \ne 0$
+	- Linear molecule is correct
+- Comparing NH$_3$ and NF$_3$
+	- NH$_3$ has $\mu=1.47D$ 
+	- NF$_3$ has $\mu=0.24D$
+	- This is because the dipole moment goes away from hydrogen and towards Florine 
+
+## 4.3 Theories of Covalent Bonding
+
+- Quantum Mechanics has 2 main theories
+	- Valence Bond Theory
+	- Molecular Orbital Theory
+
+## 4.4 Valence Bond Theory
+
 - 
