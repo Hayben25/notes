@@ -80,4 +80,19 @@
 
 ## 4.4 Valence Bond Theory
 
-- 
+- There is a difference in bonds depending on the level of atoms bonded
+- Take CH$_4$
+	- Since Carbon has 2 electrons in its outermost shell can we only make CH$_2$?(No)
+	- e$^-$ promote to the last 2p orbital making 4 lone electrons on Carbon
+		- This is the wrong shape though because the 2p orbital has 90$\degree$ between its electrons
+	- Hybridization is the answer - Mixing of atomic orbitals in an atom $\rightarrow$ hybrid orbitals
+	- Combine 2s + 3 2p $\rightarrow$ 4 sp$^3$
+	- See fig 4.15,4.17-4.20, 4.26
+- Approach - Lewis + VSEPR $\rightarrow$ shape $\rightarrow$ to explain hybridization
+	- \# of hybrid orbitals = \# of atomic orbitals used
+- s,p,d hybridization
+	- SF$_6$
+		- octahedral
+		- sp$^3$d$^2$
+		- See fig 4.36
+	- 
