@@ -77,3 +77,56 @@
 	- Oath or affirmation
 	- Description of place to be searched
 	- Description of person or things to be seized
+
+## 5$^{th}$ Amendment: Due Process and Property Right
+
+- Major civilian crimes require an indictment by a grand jury
+	- Didn't apply to minor crimes (initially)
+	- Exception for active military - courts martial
+	- Exception for militia when called into active service - courts martial
+- May not be tried again for the same crime after being acquitted
+	- May apply if a trial reaches a certain point and ends without a verdict
+	- Does not apply if the jury fails to reach a verdict
+- Protection against *self-incrimination*
+	- Defendant not required to testify against him or herself in a criminal trial
+	- Does not apply to civil trials
+	- Has been extended considerably to assure that involuntary statements are not used and that statements are not coerced
+- Due Process of Law
+	- Government must follow proper procedures
+		- Protects life, liberty, and property
+- Takings Clause
+	- The government cannot take property without just compensation
+
+## 6$^{th}$ Amendment: Rights of defendants in trials
+
+- Speedy trial
+- Public trials
+- Jury trial
+	- The State and district where the crime was committed
+	- District previously ascertained by law - who does this?
+	- Does not specify jury requirements
+- Right to know the charges
+- Right to confront witnesses against him
+- Right to an attorney
+
+##  7$^{th}$ Amendment: Civil trials
+
+- Trial by jury in cases with large values
+
+## 8$^{th}$ Amendment: Bail, Fines, Punishment
+
+- No excessive bail, fines
+- No cruel and unusual punishment
+- None of the standards are defined so it makes it hard to pinpoint
+
+## 9$^{th}$ Amendment: Other rights
+
+- Protects people's rights by saying that there are rights not stated
+
+## 10$^{th}$ Amendment: States Powers
+
+- Rights not delegated to the US by the Constitution are given to the states
+
+## 14$^{th}$ Amendment
+
+- Describes citizenship and privileges as a result

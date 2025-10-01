@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 2415/13.3 - Limits and Continuity.md",
+                "file": "History 1301/Causes of The American Revolution.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "13.3 - Limits and Continuity"
+              "title": "Causes of The American Revolution"
             }
           }
         ]
@@ -182,8 +182,12 @@
   },
   "active": "134e750a481da996",
   "lastOpenFiles": [
-    "Math 2415/13.2 - Graphs Level Curves and Surfaces.md",
+    "Gov 2306/Bill of Rights.md",
+    "History 1301/Causes of The American Revolution.md",
+    "Gov 2306/Origins of Government.md",
+    "Gov 2306/Philosophies and Ideologies in American Government.md",
     "Math 2415/13.3 - Limits and Continuity.md",
+    "Math 2415/13.2 - Graphs Level Curves and Surfaces.md",
     "Math 2415/13.1 - Domain and Range.md",
     "Chem 1311/Chapter 4 - Resonance.md",
     "Math 2415/12.5 - Curvilinear Motion Curvature.md",
@@ -192,7 +196,6 @@
     "Chem 1311/Chapter 2 - Atomic Structure and Periodicity.md",
     "Parabola linux",
     "Chem 1311/Chapter 1 - Chemical Foundations.md",
-    "Gov 2306/Bill of Rights.md",
     "Chem 1311/Chapter 3 - Bonding.md",
     "History 1301/Origins of American Government.md",
     "Gov 2306/Constitutional Safeguards and Federalism.md",
@@ -206,9 +209,6 @@
     "Engi 1100/Chapter 1.md",
     "Engi 1100/engi1100.md",
     "Flight Academy/Lesson 7 & 9.md",
-    "Flight Academy/Lesson 5.md",
-    "Flight Academy/Lesson 4.md",
-    "Flight Academy/Lesson 3.md",
-    "Flight Academy/Lesson 2.md"
+    "Flight Academy/Lesson 5.md"
   ]
 }
