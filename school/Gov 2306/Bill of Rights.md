@@ -130,3 +130,20 @@
 ## 14$^{th}$ Amendment
 
 - Describes citizenship and privileges as a result
+- Also describes rights of people in the US as a whole
+
+
+## 4.1 Civil War Amendments
+
+- 13$^{th}$ Amendment (1865) - Abolition of slavery
+	- Convict leasing system
+- 14$^{th}$ Amendment (1868) - Citizenship, Due Process, Equal Protection
+	- Civil Rights Cases (1883), Plessy v. Ferguson (1896), Brown v. Board of Education (1954)
+- 15$^{th}$ Amendment (1870) - Right to vote
+	- Literacy tests, poll taxes, grandfather clauses, white primaries, violence and intimidation
+
+## 4.3 Expanding Democracy
+
+- 17$^{th}$ Amendment (1913) - Direct election of Senators
+- 19$^{th}$ Amendment (1920)- Women's Suffrage
+- 26$^{th}$ Amendment (1971) - Voting Age 18
