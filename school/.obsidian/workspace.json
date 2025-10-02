@@ -26,12 +26,15 @@
             "id": "fec7dfc786115496",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.14"
+                "file": "Math 2415/13.1 - Domain and Range.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
+              "icon": "lucide-file",
+              "title": "13.1 - Domain and Range"
             }
           }
         ],
@@ -194,6 +197,13 @@
   },
   "active": "fec7dfc786115496",
   "lastOpenFiles": [
+    "Math 2415/12.5 - Curvilinear Motion Curvature.md",
+    "Math 2415/12.4 Arc Length.md",
+    "Math 2415/12.3 - Curves.md",
+    "Math 2415/12.2 - Differentiation formulas.md",
+    "Math 2415/12.1 - Vector Functions.md",
+    "Math 2415/13.2 - Graphs Level Curves and Surfaces.md",
+    "Math 2415/13.1 - Domain and Range.md",
     "Math 2415/13.3 - Limits and Continuity.md",
     "Math 2415/13.4 Partial Derivatives.md",
     "Chem 1311/Chapter 4 - Resonance.md",
@@ -201,10 +211,6 @@
     "Gov 2306/Bill of Rights.md",
     "Gov 2306/Origins of Government.md",
     "Gov 2306/Philosophies and Ideologies in American Government.md",
-    "Math 2415/13.2 - Graphs Level Curves and Surfaces.md",
-    "Math 2415/13.1 - Domain and Range.md",
-    "Math 2415/12.5 - Curvilinear Motion Curvature.md",
-    "Math 2415/12.4 Arc Length.md",
     "Parabola linux/Differences in install iso.md",
     "Chem 1311/Chapter 2 - Atomic Structure and Periodicity.md",
     "Parabola linux",
@@ -218,9 +224,6 @@
     "Chem 1311/chem1311.md",
     "Engi 1100/Chapter 5.md",
     "Engi 1100/Chapter 4.md",
-    "Engi 1100/Chapter 3.md",
-    "Engi 1100/Chapter 1.md",
-    "Engi 1100/engi1100.md",
-    "Flight Academy/Lesson 7 & 9.md"
+    "Engi 1100/Chapter 3.md"
   ]
 }
