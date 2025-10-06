@@ -95,4 +95,22 @@
 		- octahedral
 		- sp$^3$d$^2$
 		- See fig 4.36
-	- 
+
+## Molecular bond theory
+
+- All electrons must be calculated
+- For each bond you can either add (e.x $\sigma_{1s}$) also called bonding or subtract (e.x $\sigma^*_{1s}$) also called anti bonding
+- Bond order = $\frac{1}{2}$(# of e$^-$ bonding - # of e$^-$ anti-bonding)
+	- BO = $\frac{1}{2}$ stable (weakly)
+	- BO = 1 stable
+	- BO = 0 unstable
+	- If BO is a whole number then it's diamagnetic, otherwise it's diamagnetic
+	- Only count the open shell to calculate bond order to go faster (because in a closed bond they both cancel)
+- For each new orbital draw another structure (e.x Li$_2$ has 2 drawings, for 1s and 2s each)
+- p 186 shows p orbitals
+	- Only one orbital has $\sigma$ bonds, all others have $\pi$
+	- Expect $\sigma_{2p}$ to be more stable that $\pi_{2s}$
+		- BUT: $\sigma_{2p}$ occupies the same spaces as $\sigma_{2s} \implies$ e$^-$ - e$^-$ repulsion destabilizes $\sigma_{2p}$ (effect depends on $\Delta E$)
+		- Pairing up e$^-$ the increases the $\Delta$E separation between the 2s and 2p orbitals
+			- If there is < 6 valence electrons then the energy order is $\pi_{2p}<\sigma_{2p}<\pi^*_{2p}<\sigma^*_{2p}$
+				- Otherwise
