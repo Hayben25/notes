@@ -112,5 +112,20 @@
 	- Expect $\sigma_{2p}$ to be more stable that $\pi_{2s}$
 		- BUT: $\sigma_{2p}$ occupies the same spaces as $\sigma_{2s} \implies$ e$^-$ - e$^-$ repulsion destabilizes $\sigma_{2p}$ (effect depends on $\Delta E$)
 		- Pairing up e$^-$ the increases the $\Delta$E separation between the 2s and 2p orbitals
-			- If there is < 6 valence electrons then the energy order is $\pi_{2p}<\sigma_{2p}<\pi^*_{2p}<\sigma^*_{2p}$
-				- Otherwise
+			- If there is < 6 valence e$^-$ then the energy order is $2\pi_{2p}<\sigma_{2p}<2\pi^*_{2p}<\sigma^*_{2p}$
+				- Otherwise $\sigma_{2p}<2\pi_{2p}<2\pi^*_{2p}<\sigma^*_{2p}$ (the first 2 switch)
+- Determine MO diagrams bond order magnetic properties O$_2$, O$_2^+$, and B$_2$
+	- O$_2$
+		- 2s bond is filled 
+		- $\sigma_{2p}$ and $\pi_{2p}$ are filled, only $\frac{1}{2}$ of the 2$\pi_{2p}^*$ is filled
+		- BO = 2
+		- Paramagnetic
+	- O$_2^+$
+		- Same as O$_2$ but there is only 1 electron in $\pi^*_{2p}$ bond
+		- BO = $\frac{5}{2}$
+		- Paramagnetic
+	- B$_2$
+		- 2s bond is filled
+		- Only $\frac{1}{2}$ of $\pi_{2p}$ is filled
+		- BO = 1
+		- Paramagnetic
