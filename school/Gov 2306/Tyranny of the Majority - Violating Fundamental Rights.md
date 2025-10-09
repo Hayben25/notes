@@ -21,3 +21,25 @@
 	- The Supreme Court upheld the policy, deferring to military judgment and claims of "necessity"
 	- **Violation of Rights:** The decision ignored the 5$^{th}$ Amendment (Due Process) and 14$^{th}$ Amendment (Equal Protection)
 	- Justice Jackson's dissent warned the ruling would "lie about like a loaded weapon"
+
+## Part II: Canada
+
+- Assimilation and Eugenics as Democratic Party
+- From the 1880s to 1996, a system of mandatory boarding schools, passed by Parliament aimed to assimilate over 150,000 Indigenous children
+	- **Violation of Rights**: The policy led to cultural genocide, systematic abuse, and thousands of deaths, violating rights to family, life, and cultural identity
+- From the 1920s-70s, provinces passed legislation allowing for the force sterilization of individuals deemed "unfit"
+	- **Violation of Rights:** These eugenics-based laws, supported by the electorate, dis
+
+## Part III: Europe and Turkey
+
+- "Wealth Tax" was applied at radically different rates based on religion
+	- Non-Muslims faced confiscatory rates up to 10x higher than Muslims.
+	- **Violations of Rights:** A clear violation of property rights and the principle of equal treatment under the law
+- Several European nations have passed laws, often with broad public support, restricting religious attire like face-covering veils
+	- **Violation of Rights:** Critics argue these bans violate the fundamental right to freedom of religion and expression, disproportionately targeting a small minority
+
+## Conclusion: The Need fore Safeguards
+
+- These cases show democracy is more than majority rule. To prevent tyranny, liberal democracies rely on safeguards to protect fundamental rights
+- "The one pervading evil of democracy is the tyranny of the majority"
+	- Lord Acton
