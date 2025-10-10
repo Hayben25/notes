@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gov 2306/Tyranny of the Majority - Violating Fundamental Rights.md",
+                "file": "Chem 1311/Chapter 5 - Stoichiometry.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Tyranny of the Majority - Violating Fundamental Rights"
+              "title": "Chapter 5 - Stoichiometry"
             }
           }
         ]
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0820487da3e1b86d",
@@ -181,6 +182,7 @@
   },
   "active": "134e750a481da996",
   "lastOpenFiles": [
+    "Gov 2306/Tyranny of the Majority - Violating Fundamental Rights.md",
     "Chem 1311/Chapter 5 - Stoichiometry.md",
     "Chem 1311/Chapter 4 - Resonance.md",
     "Math 2415/14.2 - Gradients and Directional Derivatives.md",
@@ -195,7 +197,6 @@
     "Math 2415/11.6 - Planes.md",
     "History 1301/Causes of The American Revolution.md",
     "Gov 2306/Misinformation.md",
-    "Gov 2306/Tyranny of the Majority - Violating Fundamental Rights.md",
     "Math 2415/14.1 - Differentiablilty and Gradient.md",
     "Math 2415/13.4 - Partial Derivatives.md",
     "Gov 2306/Bill of Rights.md",

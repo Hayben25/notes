@@ -34,3 +34,70 @@
 	- mass % of O = 94.06%
 	- If measure other %'s $\implies$ not pure
 	- Note: Empirical formula HO $\rightarrow$ same result
+- From elemental analysis we can get empirical formula
+	- Ex Ascorbic Acid (Vitiman C)
+		- Composed of 40.92% C, 4.58% H, & 54.50% O by mass
+		- Determine the empirical formula
+		- Assume a 100 g sample $\therefore$ 1% = 1 g
+			- 40.92 g C, 4.58 g H, 54.5 g O
+		- Find mols of each
+			- $n_C=\frac{40.92\ g\ C}{12.01\ g\ mol}=3.407\ mol\ C$
+			- $n_H=4.54\ mol\ H$
+			- $n_O=3.406\ mol\ O$
+		- Convert subscripts to smallest whole \#
+			- Divide by smallest subscript
+				- Divide by 3.406 $\rightarrow CH_{1.33}O$
+			- If necessary, multiply by smallest factor $\rightarrow$ whole \#
+				- Multiple by 3 $\rightarrow C_3H_4O_3$
+- Need more than just the mass %'s to find the molecular formula
+	- Molecular formula = whole # $\times$ empirical formula 
+	- Continuing ascorbic acid
+		- M (acsorbic acid) = 176.1 $\frac{g}{mol}$
+		- M (empirical formula) = 88.06 $\frac{g}{mol}$
+		- $\therefore$ whole # factor = $M_{ascorbic acid}/M_{empirical formula}=\frac{176.01\ g/mol}{88.06\ g/mol}=2$
+		- $\therefore$ Molecular formula $=C_6H_8O_6$
+- There is another way if your compound is made of carbon or hydrogen
+	- Called combustion analysis
+	- Any compound containing C & H will burn in $O_2\rightarrow CO_2\ and\ H_2O$ (Fig 5.5)
+- Ex ethanol
+	- 11.5 g ethanol $\rightarrow$ 22.0 g CO$_2$ & 13.5 g H$_2$O
+	- $n_c=n_{CO_2}=\frac{22.0\ g\ CO_2}{44.01\ g/mol\ CO_2}=0.5\ mol\ C$
+	- $n_O=2*n_{H_2O}=2*\frac{13.5\ g\ H_2O}{18.02\ g/mol\ H_2O}=1.5\ mol\ H$
+	- Mass in sample:
+		- $M_C=n_C*M_C=.5*12.01=6.01\ g\ C$
+		- $M_H=n_H*M_H=1.5*1.008=1.51\ g\ H$
+	- Know compound has O and no more elements
+		- $m_O=m_{sample}-(m_C+m_H)=11.5\ g- (6.01\ g + 1.51\ g)=4\ g$
+	- How Get Empirical Formula?
+		- Moles $\rightarrow$ ratio of elements in compound
+			- $C_{nC}H_{nH}O_{nO}$
+		- Convert to smallest whole numbers
+			- $C_{.5}H_{1.5}O_{.25}$
+			- divide by 0.25 $\rightarrow$ $C_2H_6O$ = empirical formula
+
+## 5.3 Chemical Reactions and Equations
+
+- Must be balanced $\rightarrow$ right stoichiometric coefficients
+	- ex: $2H_2+O_2\rightarrow2H_2O$
+- Procedure
+	1. Identify reactions and products - write skeleton equations
+	2. Balance the atoms - find suitable multiplier $\rightarrow$ same # of each type of atom on both sides
+		- Start with the most complex substance \[set coeff. = 1] and end with the simplest substance
+		- Look for elements that appear only once on each side and balance those first
+		- Change only the coefficients **not the subscripts**
+			- E.x. 2NO$_2$ \[change subsc. $\rightarrow$ different compound N$_2$O$_4$]
+	3. Adjust the coefficients - smallest whole # coeff. are preferred
+	4. Check
+	5. Specify the states
+- Examples
+	- 1
+		- First step in industrial preparation of nitric acid (HNO$_3$) involves the reaction between ammonia gas and oxygen gas to form nitric oxide gas (NO) and water. Balance the reaction
+		- $NH_3+O_2\rightarrow NO+H_2O$ 
+		- $1NH_3+\frac{5}{4}O_2\rightarrow 1NO+\frac{3}{2}H_2O$ 
+		- $4NH_3+5O_2\rightarrow 4NO+6H_2O$ 
+		 - $4NH_3(g)+5O_2(g)\rightarrow 4NO(g)+6H_2O(l)$
+	- 2
+		- Balance $C+HNO_3\rightarrow CO_2+NO_2+H_2O$
+		- $\frac{1}{4}C+1HNO_3\rightarrow \frac{1}{4}CO_2+NO_2+\frac{1}{2}H_2O$
+		- $C+4HNO_3\rightarrow CO_2+4NO_2+2H_2O$
+		- $C(s)+HNO_3(aq)\rightarrow CO_2(g)+NO_2(g)+H_2O(l)$
