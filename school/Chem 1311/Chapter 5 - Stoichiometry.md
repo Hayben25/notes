@@ -101,3 +101,47 @@
 		- $\frac{1}{4}C+1HNO_3\rightarrow \frac{1}{4}CO_2+NO_2+\frac{1}{2}H_2O$
 		- $C+4HNO_3\rightarrow CO_2+4NO_2+2H_2O$
 		- $C(s)+HNO_3(aq)\rightarrow CO_2(g)+NO_2(g)+H_2O(l)$
+
+## Amounts of Reactants and Products
+
+- Use reaction stoichiometry (mass/mole relationships between reactants and products)
+- Ex $2\ CO(g)+O_2(g)\rightarrow 2\ CO_2(g)$
+	- 1 mol $O_2\rightarrow$ 2 mol of $CO_2$
+	- 2 mol CO $\rightarrow$ 2 mol $CO_2$
+- Use mole method
+	- Ex. The breakdown of food for energy can be described by the degradation of glucose
+		- $C_6H_{12}O_6+6O_2\rightarrow 6CO_2+6H_2O$
+		- If 856g $C_6H_12O_6$ is consumed by the body over a certain period, what is the mass of CO$_2$ produced?
+			1. Equation is balanced.
+			2. n$_{glucose}=\frac{856\ g\ glucose}{180.2\ g/mol\ glucose}=4.75$ mol of glucose
+			3. From the balanced equation use 1 mol glucose $\rightarrow$ 6 mol CO$_2$
+				- $n_{CO_2}=4.75\ mol\ glucose*\frac{6\ mol\ CO_2}{1\ mol\ glucose}=28.5\ mol\ CO_2$
+			4. $g\ CO_2=28.5\ mol\ CO_2*\frac{44.01\ g\ CO_2}{1\ mol\ CO_2}=1.25*10^3\ g\ CO_2$ 
+	- Ex. Cisplatin \[Pt(NH$_3$)$_2$CL$_2$] is an anti-tumor agent. It is prepared from 
+		- K$_2$PtCl$_2$(aq)+2NH$_3$(aq)$\rightarrow$Pt(NH$_3$)$_2$Cl$_2$(s)+2KCl(aq)
+		- How many grams of cisplatin can be obtained from 0.8862 g K$_2$PtCL$_4$ in excess NH$_3$
+		1. Have balanced equation and 1 mol $K_2PtCl_4 \rightarrow$ 1 mol cisplatin
+			- $g_{cisplatin}=n_{cisplatin}*M_{cisplatin}$
+			- $=n_{K_2PtCl_4}*\frac{1\ mol\ cisplatin}{1\ mol\ K_2PtCl_4}*M_{cisplatin}$
+			- $=\frac{0,8862\ g\ K_2PtCL_4}{415.1\ g/mol\ K_2PtCl_4}*\frac{1\ mol\ cisplatin}{1\ mol\ K_2PtCl_4}*300.1\ g/mol\ cisplatin=0.6407\ g\ Pt(NH_3)_2Cl_2$
+- Limit Reacant (Reagent)
+	- Limiting reactant - reactant that is used up first
+	- Excess reactants - the other reactants
+	- Ex. $S(l)+3F_2(g)\rightarrow SF_6(g)$
+		- Say add 4 mol S to 11 mol F$_2$
+		- $n_{F2\ for rxn}=4\ mol\ S*\frac{3\ mol\ F_2}{1\ mol\ S}=12\ mol\ F_2$
+		- $\implies F_2$ is limiting reagent Amount of $SF_6$ produced is limited by $F_2$
+			- What if had 20 mol $F_2$
+				- Limiting reagent = S
+	- Ex. Urea $[(NH_2)_2CO]$ is used as fertilizer, in animal feed, and in the polymer industry. It is prepared from
+		- $2NH_3(g)+CO_2(g)\rightarrow (NH_2)_2CO(aq)+H_2O(l)$
+		- What is the mass of the urea formed if 637.2 g $NH_3$ and 1142 g $CO_2$ are allowed to react?
+		- Given both reactants $\implies$ limiting reactant problem
+			- Find limiting reactant
+				- $n_{NH_3}=\frac{637.2\ g\ NH_3}{17.03\ g/mol\ NH_3}=37.42\ mol\ NH_3$
+				- $n_{CO_2}=\frac{1142\ g\ CO_2}{44.01\ g/mol\ CO_2}=25.95\ mol\ CO_2$
+			- Alternative approach
+				- If $NH_3$ is limiting reactant
+					- $n_{urea}=37.42\ mol\ NH_3*\frac{1\ mol\ urea}{2\ mol\ NH_3}=18.71\ mol$
+				- If $CO_2$ is limiting reactant
+					- $n_{urea}=25.95\ mol\ CO_2*\frac{1\ mol\ urea}{1\ mol\ CO_2}=25.95\ mol$
