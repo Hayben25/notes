@@ -145,3 +145,22 @@
 					- $n_{urea}=37.42\ mol\ NH_3*\frac{1\ mol\ urea}{2\ mol\ NH_3}=18.71\ mol$
 				- If $CO_2$ is limiting reactant
 					- $n_{urea}=25.95\ mol\ CO_2*\frac{1\ mol\ urea}{1\ mol\ CO_2}=25.95\ mol$
+
+
+## Reaction Yields
+
+- Theoretical yield - predicted by balanced equation
+- Actual yield is less
+	- % yield = ($\frac{actual\ yield}{theoretical\ yield}$)\*100%
+- Ex. Ti is a strong corrosion - resistant metal. It is prepared from
+	- $TiCl_4(g)+2Mg(l)\rightarrow Ti(s)+2MgCl_2(l)$
+	- Calculate the theoretical yield for $3.54*10^4$ kg $TiCl_4$ and $1.13*10^4$ kg Mg
+		- $n_{TiCl_4}=\frac{m_{TiCl_4}}{M_{TiCl_4}}=\frac{3.54*10^7\ g}{189.7\ g/mol}=1.87*10^5$
+		- $n_{Mg}=\frac{m_{Mg}}{M_{Mg}}=\frac{1.13*10^7\ g}{24.31\ g/mol}=4.65*10^5$
+		- If $Mg\implies n_{Ti}=n_{Mg}*\frac{1\ mol\ Ti}{2\ mol\ Mg}=2.33*10^5\ mol$
+		- If $TiCl_4\implies n_{Ti}=n_{TiCl_4}*\frac{1\ mol\ Ti}{1\ mol\ TiCl_4}=1.87*10^5\ mol$
+		- $\therefore TiCl_4$ is the limiting reactant
+		- $\implies m_{Ti}=n_{Ti}*M_{Ti}=8.95*10^3\ kg\ Ti$
+	- % yield if only obtain $7.91*10^3$ kg Ti
+		- % yield $=\frac{7.91*10^3\ kg\ Ti}{8.85*10^3\ kg\ Ti}*100=88.4$
+			- Note that $88.4 \lt 100$
