@@ -1,0 +1,32 @@
+## We won the revolution, now what?
+- Articles of Confederation
+	- 1$^{st}$ constitution
+	- Abject failure
+		- Power
+			- Weak central government
+			- Cannot tax or declare war
+			- Congress could:
+				- Foreign affairs
+				- Treaties
+				- War
+				- Army/Navy
+				- \$\$\$
+				- Mail
+			- Congress couldn't:
+				- Raise \$\$$
+				- Controlled imports
+				- Enforcement
+			- Consequences
+				- Inflation
+				- Unemployment
+				- Shays' Rebellion
+	- John Dickinson
+	- Unity
+	- Three points of contention
+		- Taxes
+		- Voting
+		- Land
+	- Some successes
+		- League of Friendship
+		- Northwest Ordinance
+		- 
