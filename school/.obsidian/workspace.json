@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Server/Projects.md",
+                "file": "Math 2415/14.5 - Local Extreme Values.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Projects"
+              "title": "14.5 - Local Extreme Values"
             }
           }
         ],
@@ -198,8 +198,10 @@
   },
   "active": "af3915ec5f5edbf0",
   "lastOpenFiles": [
-    "Chem 1311/Chapter 6 - Types of Chemical Reactions and Solution Stoichiometry.md",
+    "Math 2415/14.4 - The Gradient as a Normal; Tangent lines and planes.md",
+    "Math 2415/14.5 - Local Extreme Values.md",
     "Server/Projects.md",
+    "Chem 1311/Chapter 6 - Types of Chemical Reactions and Solution Stoichiometry.md",
     "Server",
     "Untitled.md",
     "Chem 1311/Chapter 5 - Stoichiometry.md",
@@ -209,7 +211,6 @@
     "History 1301/Chapter 1.md",
     "Assignments/hcianess_Assignment4.md",
     "Assignments/hcianess_Assignment2.md",
-    "Math 2415/14.4 - The Gradient as a Normal; Tangent lines and planes.md",
     "Math 2415/14.3 - The Mean Value Theorem - Chain Rules.md",
     "Math 2415/14.2 - Gradients and Directional Derivatives.md",
     "Math 2415/11.1 - Cartesian Space Coordinates.md",
@@ -224,7 +225,6 @@
     "Math 2415/13.2 - Graphs Level Curves and Surfaces.md",
     "Math 2415/13.3 - Limits and Continuity.md",
     "Math 2415/13.4 - Partial Derivatives.md",
-    "Gov 2306/Tyranny of the Majority - Violating Fundamental Rights.md",
     "Parabola linux",
     "Chem 1311/back"
   ]
