@@ -29,4 +29,41 @@
 	- Some successes
 		- League of Friendship
 		- Northwest Ordinance
-		- 
+
+## US Constitution
+
+- FEDERALIST Document
+- Separation of powers
+- Articles
+	- I-Created Congress
+	- II-Created the Presidency
+	- III-Created the Supreme Court
+	- VI-Religion
+	- VII-Ratification
+- Ratified in 1789
+	- Amended almost immediately
+- Bill of Rights
+- 1$^{st}$ 10 Amendments
+	- Passed Simultaneously
+- Constitutional Convention
+	- Leaders
+		- George Washington
+		- James Madison
+		- "Founding Fathers"
+		- Participants
+	- Issues
+		- Power
+		- Representation
+		- Slavery
+- The Virginia Plan
+	- New National Government
+	- Three separate branches
+	- Representation
+- The New Jersey Plan
+	- Legislature
+	- Representation
+- The Great Compromise
+	- Bicameral
+		- House (Population based)
+		- Senate (1 per state)
+- 
