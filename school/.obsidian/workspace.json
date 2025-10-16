@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History 1301/Post Revolution.md",
+                "file": "Chem 1311/Chapter 6 - Types of Chemical Reactions and Solution Stoichiometry.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Post Revolution"
+              "title": "Chapter 6 - Types of Chemical Reactions and Solution Stoichiometry"
             }
           }
         ],
@@ -95,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0820487da3e1b86d",
@@ -198,7 +197,11 @@
   },
   "active": "af3915ec5f5edbf0",
   "lastOpenFiles": [
+    "Chem 1311/Chapter 5 - Stoichiometry.md",
+    "Chem 1311/Chapter 4 - Resonance.md",
+    "Chem 1311/Chapter 3 - Bonding.md",
     "Chem 1311/Chapter 6 - Types of Chemical Reactions and Solution Stoichiometry.md",
+    "History 1301/Post Revolution.md",
     "Gov 2306/The Two Governments Texas vs Federal.md",
     "Math 2415/14.2 - Gradients and Directional Derivatives.md",
     "Math 2415/14.4 - The Gradient as a Normal; Tangent lines and planes.md",
@@ -206,8 +209,6 @@
     "Server/Projects.md",
     "Server",
     "Untitled.md",
-    "Chem 1311/Chapter 5 - Stoichiometry.md",
-    "History 1301/Post Revolution.md",
     "History 1301/Origins of American Government.md",
     "History 1301/Causes of The American Revolution.md",
     "History 1301/Chapter 1.md",
@@ -223,8 +224,6 @@
     "Math 2415/12.3 - Curves.md",
     "Math 2415/12.4 Arc Length.md",
     "Math 2415/12.5 - Curvilinear Motion Curvature.md",
-    "Math 2415/13.2 - Graphs Level Curves and Surfaces.md",
-    "Math 2415/13.3 - Limits and Continuity.md",
     "Parabola linux",
     "Chem 1311/back"
   ]
