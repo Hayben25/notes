@@ -1,0 +1,25 @@
+- pacman
+	- adguardhome
+	- forgejo
+	- traefik
+	- nextcloud
+		- php-legacy-sodium
+		- php-legacy-imagick
+		- librsvg
+	- vaultwarden
+		- vaultwarden-web
+	- qbittorrent
+	- jellyfin-server
+	- jellyfin-web
+	- matrix-synapse
+		- python-psycopg2
+- aur (yay)
+	- authelia
+	- glance
+	- yarr-bin
+	- lidarr
+	- radarr
+	- sonarr
+	- bazarr
+	- jellyseerr
+	- immich-server

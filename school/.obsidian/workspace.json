@@ -4,41 +4,46 @@
     "type": "split",
     "children": [
       {
-        "id": "621c66d86a65ab2c",
+        "id": "a8ea4f8bdd9f956b",
         "type": "tabs",
         "children": [
           {
-            "id": "134e750a481da996",
+            "id": "c7c45c5db7c9fe07",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chem 1311/Chapter 5 - Stoichiometry.md",
+                "file": "Server/Arch Linux VM Setup 2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 5 - Stoichiometry"
-            }
-          },
-          {
-            "id": "af3915ec5f5edbf0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chem 1311/Chapter 6 - Types of Chemical Reactions and Solution Stoichiometry.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Chapter 6 - Types of Chemical Reactions and Solution Stoichiometry"
+              "title": "Arch Linux VM Setup 2"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "6c224fb75a3086ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c7c7d956fce380e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Server/Physical Setup.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Physical Setup"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,18 +200,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "af3915ec5f5edbf0",
+  "active": "0c7c7d956fce380e",
   "lastOpenFiles": [
+    "Server/Arch Linux VM Setup 2.md",
+    "Server/Arch Linux VM Setup 1.md",
+    "Server/Physical Setup.md",
+    "Server/Authelia.md",
+    "Server/Projects.md",
+    "Chem 1311/Chapter 6 - Types of Chemical Reactions and Solution Stoichiometry.md",
     "Chem 1311/Chapter 5 - Stoichiometry.md",
     "Chem 1311/Chapter 4 - Resonance.md",
     "Chem 1311/Chapter 3 - Bonding.md",
-    "Chem 1311/Chapter 6 - Types of Chemical Reactions and Solution Stoichiometry.md",
     "History 1301/Post Revolution.md",
     "Gov 2306/The Two Governments Texas vs Federal.md",
     "Math 2415/14.2 - Gradients and Directional Derivatives.md",
     "Math 2415/14.4 - The Gradient as a Normal; Tangent lines and planes.md",
     "Math 2415/14.5 - Local Extreme Values.md",
-    "Server/Projects.md",
     "Server",
     "Untitled.md",
     "History 1301/Origins of American Government.md",
@@ -220,10 +229,6 @@
     "Math 2415/11.5 - Lines.md",
     "Math 2415/11.6 - Planes.md",
     "Math 2415/12.1 - Vector Functions.md",
-    "Math 2415/12.2 - Differentiation formulas.md",
-    "Math 2415/12.3 - Curves.md",
-    "Math 2415/12.4 Arc Length.md",
-    "Math 2415/12.5 - Curvilinear Motion Curvature.md",
     "Parabola linux",
     "Chem 1311/back"
   ]

@@ -18,11 +18,11 @@ https://syncthing.net/ - file sync
 https://pairdrop.net/ - airdrop file sharing
 https://immich.app/ - photos
 https://github.com/dani-garcia/vaultwarden - password management
-https://element.io/hosting/on-premise - irc communication 
+https://element.io/server-suite/community - irc communication 
 
 ## networking
 
-https://nginxproxymanager.com/ - proxy manager
+https://traefik.io/traefik - proxy management
 https://adguard.com/en/adguard-home/overview.html - ad blocker and dns
 https://www.qbittorrent.org/ - torrenting
 https://tailscale.com/ - network control and vpn connecting
@@ -31,7 +31,7 @@ https://opnsense.org/ - router
 
 ## system management
 
-https://about.gitea.com/ - selfhosted git
+https://forgejo.org/ - selfhosted git
 https://github.com/glanceapp/glance - dashboard
 
 ## operating systems
@@ -39,5 +39,4 @@ https://github.com/glanceapp/glance - dashboard
 https://archlinux.org/ - for vms
 https://www.proxmox.com/en/proxmox-ve - hypervisor
 https://proxmox.com/en/products/proxmox-backup-server/ - backups
-https://proxmox.com/en/products/proxmox-mail-gateway/ - mail
 https://www.truenas.com/truenas-scale/ - storage management

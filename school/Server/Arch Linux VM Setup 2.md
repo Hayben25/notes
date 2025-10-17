@@ -1,0 +1,22 @@
+- pacman
+	- portainer
+		- immich
+	- podman
+		- forgejo
+		- vaultwarden
+	- docker-compose/docker
+		- nextcloud
+		- adguardhome
+		- traefik
+		- qbittorrent
+		- jellyfin
+		- authelia
+		- glance
+		- yarr
+		- lidarr
+		- radarr
+		- sonarr
+		- bazarr
+		- jellyseerr
+	- helm
+		- ess-helm
