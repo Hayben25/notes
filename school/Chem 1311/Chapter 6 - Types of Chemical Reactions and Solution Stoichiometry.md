@@ -99,4 +99,43 @@
 	- Net ionic equaiton
 		- $H^+(aq)+OH^-(aq)\rightarrow H_2O(l)$
 		- 1 mol HCl $\rightarrow$ 1 mol H$^+$
-		- 1 mol NaOH $\rightarrow$
+		- 1 mol NaOH $\rightarrow$ 1 mol OH$^-$
+	- When $n_{HCl}=n_{NaOH}$ at the end of reaction would have no leftover acid or base (they are neutralized)
+- Weak acid ($CH_3COOH$ & $NaOH$)
+	- $OH^-(aq)+CH_3COOH(aq)\rightarrow CH_3COO^-(aq)+H_2O(l)$
+	- $H^+$ moves (proton-transfer)
+- What volume of 0.01060 M HBr (aq) is needed to neutralize 25.00 ml of 0.01580 M Ba(OH)$_2$?
+	- $2HBr(aq)+Ba(OH)_2(aq)\rightarrow BaBr_2(aq)+2H_2O$
+	- $2(M_{Ba(OH)_2}\times V_{Ba(OH)_2})=M_{HBr}\times V_{HBr}\implies \frac{2(M_{Ba(OH)_2}\times V_{Ba(OH)_2})}{M_{HBr}}=\frac{2*.025*.0158}{.0106}=.07453\ L=74.53\ ml$
+
+## 6.5 Oxidation-Reduction Redox Reactions
+
+- E.x. $2Ca(s)+O_2(g)\rightarrow 2CaO(s)$
+	- ionic compound: $Ca^{2+}$,$O^{2-}$
+	- Half reactions
+		- $2Ca \rightarrow 2Ca^{2+}+4e^-$ (oxidation - loss of e$^-$)
+		- $O_2+4e^-\rightarrow 2O^{2-}$ (reduction - gain of e$^-$)
+		- Both reactions occur at the same time
+		- $O_2$ = oxidizing agent - causes the other species (Ca) to be oxidized (it is itself reduced)
+- E.x. Write the $\frac{1}{2}$ reactions, identify the oxidizing and reducing agents for $Ba+F_2\rightarrow BaF_2$
+	- Oxidizing agent - $F_2$
+	- Reducing agent - $Ba$
+	- Half reactions
+		- $Ba \rightarrow Ba^{2+}+2e^-$ (oxidation - loss of e$^-$)
+		- $F_2+2e^-\rightarrow 2F^{-}$ (reduction - gain of e$^-$)
+- Redox reaction also occur hen e$^-$ density shifts (covalent compounds)
+- E.x. $H_2(g)+Cl_2(g)\rightarrow 2HCl(g)$
+	- Fig. question 3.18
+	- e$^-$ density distorted towards the Cl and away from the H
+- Oxidation number (oxidation state)
+	- Charge atom would have if e$^-$ transferred completely
+	- Table 6.2
+	- e.x. O.N. of atoms
+		- $Li_2O$
+			- $Li_2^{+1}O^{2-}$
+		- $PF_3$
+			- $P^{+3}F_3^{-1}$
+		- $HNO_3$
+			- $H^{+1}N^{+5}O_3^{-2}$
+		- $[Cr_2O_7]^{-2}$
+			- $[Cr_2^{+6}O_7^{-2}]^{2-}$
