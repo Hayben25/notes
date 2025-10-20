@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chem 1311/Chapter 6 - Types of Chemical Reactions and Solution Stoichiometry.md",
+                "file": "Math 2415/14.5 - Local Extreme Values.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 6 - Types of Chemical Reactions and Solution Stoichiometry"
+              "title": "14.5 - Local Extreme Values"
             }
           }
         ],
@@ -95,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0820487da3e1b86d",
@@ -198,6 +197,7 @@
   },
   "active": "e8e349342f3ce658",
   "lastOpenFiles": [
+    "Math 2415/14.4 - The Gradient as a Normal; Tangent lines and planes.md",
     "Chem 1311/Chapter 6 - Types of Chemical Reactions and Solution Stoichiometry.md",
     "Server/Hardware.md",
     "Server/Physical Setup.md",
@@ -211,7 +211,6 @@
     "History 1301/Post Revolution.md",
     "Gov 2306/The Two Governments Texas vs Federal.md",
     "Math 2415/14.2 - Gradients and Directional Derivatives.md",
-    "Math 2415/14.4 - The Gradient as a Normal; Tangent lines and planes.md",
     "Math 2415/14.5 - Local Extreme Values.md",
     "Server",
     "Untitled.md",
