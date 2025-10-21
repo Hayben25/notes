@@ -66,4 +66,10 @@
 	- Bicameral
 		- House (Population based)
 		- Senate (1 per state)
-- 
+- Bill of Rights happened immediately after the Constitution was ratified
+	- James Madison also wrote
+	- 1$^{st}$ 10 Amendments
+	- Iroquois Great Law of Peace
+		- Haudenosaunee
+		- Federalist vs. Anti-Federalist
+	- 
