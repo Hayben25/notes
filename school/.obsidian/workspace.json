@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Assignments/hcianess_Assignment5.md",
+                "file": "Chem 1311/Chapter 6 - Types of Chemical Reactions and Solution Stoichiometry.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "hcianess_Assignment5"
+              "title": "Chapter 6 - Types of Chemical Reactions and Solution Stoichiometry"
             }
           }
         ]
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0820487da3e1b86d",
@@ -193,10 +194,10 @@
   },
   "active": "1f9450297b32dfa7",
   "lastOpenFiles": [
+    "Assignments/hcianess_Assignment5.md",
     "Pasted image 20251021221219.png",
     "Pasted image 20251021221612.png",
     "Pasted image 20251021183444.png",
-    "Assignments/hcianess_Assignment5.md",
     "Math 2415/14.4 - The Gradient as a Normal; Tangent lines and planes.md",
     "Math 2415/14.6 - Absolute Extreme Values.md",
     "Math 2415/14.7 - Maxima and Minima with Side Conditions.md",

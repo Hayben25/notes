@@ -28,7 +28,7 @@
 			- $\implies [Ba^{2+}]=1M$  and $[NO_3^-]=2M$
 				- $[\dots]$ - concentration
 	- Ex. How many grams of $Na_2SO_4$ are needed to prepare 250 ml of a 0.683 M solution
-		- n=MV
+		- $n=M\times V$
 		- $n_{Na_2So_4}=V*M= (0.250\ L)*(0.683\ M\ Na_2SO_4)=0.171\ mol\ Na_2SO_4$
 		- $g\ Na_2SO_4=0.171\ mol * 142.1\ g/mol=24.3\ g$
 - Dilution of Solutions
@@ -108,7 +108,7 @@
 	- $2HBr(aq)+Ba(OH)_2(aq)\rightarrow BaBr_2(aq)+2H_2O$
 	- $2(M_{Ba(OH)_2}\times V_{Ba(OH)_2})=M_{HBr}\times V_{HBr}\implies \frac{2(M_{Ba(OH)_2}\times V_{Ba(OH)_2})}{M_{HBr}}=\frac{2*.025*.0158}{.0106}=.07453\ L=74.53\ ml$
 
-## 6.5 Oxidation-Reduction Redox Reactions
+## 6.5 oxidation-reduction redox reactions
 
 - E.x. $2Ca(s)+O_2(g)\rightarrow 2CaO(s)$
 	- ionic compound: $Ca^{2+}$,$O^{2-}$
@@ -131,11 +131,49 @@
 	- Charge atom would have if e$^-$ transferred completely
 	- Table 6.2
 	- e.x. O.N. of atoms
-		- $Li_2O$
-			- $Li_2^{+1}O^{2-}$
-		- $PF_3$
-			- $P^{+3}F_3^{-1}$
-		- $HNO_3$
-			- $H^{+1}N^{+5}O_3^{-2}$
-		- $[Cr_2O_7]^{-2}$
-			- $[Cr_2^{+6}O_7^{-2}]^{2-}$
+
+| $Li_2O$          | $Li_2^{+1}O^{2-}$          |
+| ---------------- | -------------------------- |
+| $PF_3$           | $P^{+3}F_3^{-1}$           |
+| $HNO_3$          | $H^{+1}N^{+5}O_3^{-2}$     |
+| $[Cr_2O_7]^{-2}$ | $[Cr_2^{+6}O_7^{-2}]^{2-}$ |
+| $H_2O_2$         | $H_2^{+1}O_2^{-1}$         |
+- For Redox Reactions O.N. Charges
+	- Atom O.N $\downarrow$ (gains e$^-$ charge) - reactant was reduced $\implies$ it is the oxidizing agent
+	- Atom O.N $\uparrow$ (loses e$^-$ charge) - reactant was oxidized $\implies$ it is the reducing agent
+	- E.x. Identify the oxidizing and reducing agents for: 
+		- $5CO(g)+I_2O_5(s)\rightarrow I_2(s)+5CO_2(g)$
+			- $5C^{+2}O^{-2}(g)+I_2^{+5}O_5^{-2}(s)\rightarrow I_2^0(s)+5C^{+4}O_2^{-2}(g)$
+			- $CO$ oxidized $\implies$ reducing agent
+			- $I_2O_5$ reduced $\implies$ oxidizing agent
+
+## Balancing redox equations: O.N. method
+
+1. Assign O.N.'s
+2. Identify species oxidized & reduced
+3. Determine # of e$^-$ transferred
+4. Balance # of e$^-$ transferred, use as coefficients
+5. Complete by balancing atoms
+- E.x. $K_2Cr_2O_7+HI\rightarrow KI+CrI_3+I_2+H_2O$
+	- $K_2^{+1}Cr_2^{+6}O_7^{-2}+H^{+1}I^{-1}\rightarrow K^{+1}I^{-1}+Cr^{+3}I_3^{-1}+I_2^0+H_2^{+1}O^{-2}$
+	- $Cr$ gains 3 e$^-$, $I$ loses 1 e$^-$
+	- $1K_2Cr_2O_7+14HI\rightarrow 2KI+2CrI_3+3I_2+7H_2O$
+		- Need 8 more $HI$ (note extra I & H do not change O.N.)
+1. Acidic solution - add $H_2O$ to balance O then $H^+$ to balance H
+- E.x. $Fe^{2+}+MnO_4^-\rightarrow Fe^{3+}+MnO_2$
+	-  $Fe^{2+}+Mn^{\underline{+7}}O_4^-\rightarrow Fe^{3+}+Mn^{\underline{+4}}O_2$
+		- $Fe$ loses 1 e$^-$, $Mn$ gains 3 e$^-$
+	-  $\underline{3}Fe^{2+}+MnO_4^-\rightarrow \underline{3}Fe^{3+}+MnO_2$
+	-  $3Fe^{2+}+MnO_4^-\rightarrow 3Fe^{3+}+MnO_2+\underline{2H_2O}$
+	-  $3Fe^{2+}+MnO_4^-+\underline{4H^+}\rightarrow 3Fe^{3+}+MnO_2+2H_2O$
+- Is the equation below a redox reaction?
+	- $SrCO_3+HBr\rightarrow CO_2+SrBr_2+H_2O$
+	- No because none of the O.N. change
+- In this reaction, which substance behaves as the oxidizing agent?
+	- $Pb+PbO_2+2H_2SO_4\rightarrow 2PbSO_4+2H_2O$ 
+	- $Pb$ loses 2e$^-$
+	- $Pb$ from $PbO_2$ gains 2e$^-$
+		- $Pb$
+		- $PbSO_4$
+		- $\underline{PbO_2}$
+		- $H_2SO_4$
