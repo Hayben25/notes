@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 2415/14.7 - Maxima and Minima with Side Conditions.md",
+                "file": "Math 2415/14.5 - Local Extreme Values.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "14.7 - Maxima and Minima with Side Conditions"
+              "title": "14.5 - Local Extreme Values"
             }
           }
         ]
@@ -191,12 +191,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1f9450297b32dfa7",
+  "active": "557e6230a74b05d8",
   "lastOpenFiles": [
+    "Math 2415/14.7 - Maxima and Minima with Side Conditions.md",
     "Math 2415/14.5 - Local Extreme Values.md",
     "Math 2415/14.9 - Reconstructing a Function from its Gradient.md",
     "Math 2415/14.8 - Increments and Differentials.md",
-    "Math 2415/14.7 - Maxima and Minima with Side Conditions.md",
     "Chem 1311/Chapter 6 - Types of Chemical Reactions and Solution Stoichiometry.md",
     "Assignments/hcianess_Assignment5.md",
     "Pasted image 20251021221219.png",
