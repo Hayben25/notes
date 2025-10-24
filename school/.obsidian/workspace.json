@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Server/Electronic Sellers.md",
+                "file": "Math 2415/14.5 - Local Extreme Values.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Electronic Sellers"
+              "title": "14.5 - Local Extreme Values"
             }
           }
         ]
@@ -193,8 +193,8 @@
   },
   "active": "1f9450297b32dfa7",
   "lastOpenFiles": [
-    "Math 2415/14.5 - Local Extreme Values.md",
     "Server/Electronic Sellers.md",
+    "Math 2415/14.5 - Local Extreme Values.md",
     "Math 2415/14.7 - Maxima and Minima with Side Conditions.md",
     "Math 2415/14.9 - Reconstructing a Function from its Gradient.md",
     "Math 2415/14.8 - Increments and Differentials.md",
