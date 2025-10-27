@@ -39,3 +39,51 @@
 	- $1\ cal=4.184\ J$ modern definition
 		- Chemical reactions use kJ, kcal
 	- Nutritional Calorie $(C)=1\ kcal$
+
+## State Functions
+
+- Changes depend **only** on state of the system, **not** on how it got there
+- State functions: U, P, T, V
+- $q$ and $w$ **in general** are not state functions = forms of energy transfer $\implies$ depend on the path
+- Frequently carry out experiments in an open vessel (constant P)
+	- Therefore new function
+		- Enthalpy: $\Delta H=q_P$
+
+## 7.1 Enthalpy
+
+- $H\define U+PV$ - state function
+- $\Delta H =\Delta U+P\Delta V=q+w+P\Delta V=q-P\Delta V+P\Delta V=q$
+- $\Delta H$ refers to the transfer of heat
+- For many reactions $\Delta H\approx\Delta U$ (but not always)
+
+## Some types of $\Delta H$
+
+- Heat of Combustion ($\Delta H_{comb}$)- 1 mol of substance combines with $O_2$
+- Heat of Formation ($\Delta H_f$) - 1 mol of compound produced from its elements
+	- $K(s)+ \frac{1}{2}Br_2(l)\rightarrow KBr(s)\ \Delta H=\Delta H_f$
+- Heat of Fusion ($\Delta H_{fus}$) - 1 mol of substance melted
+	- $H_2O(s)\rightarrow H_2O(l)$
+- Heat of Vaporization ($\Delta H_{vap}$) - 1 mol of substance vaporized
+	- $H_2O(l)\rightarrow H_2O(g)$
+
+- How to measure heat changes?
+
+## 7.2 Calorimetry
+
+- Heat Capacity ($C$) - Amount of heat required for sample $\Delta T=1K$ $C=\frac{q}{\Delta T}$ (extensive)
+- Specific Heat ($s$) - Amount of heat needed to change T of 1 g by 1K $s=\frac{C}{m}$ (intensive)
+- Looking at both equations we find $q=ms\Delta T$ and $q=C\Delta T$
+- $H_2O$: $s=4.184\ J/(g*K)$ 
+	- Heat capacity of 60 g of $H_2O$
+		- $C=60\ g*4.184=251\ J/K$
+	- Molar heat capacity: $J/(mol*K)$
+		- $H_2O=75.40\ J/(mol*K)$
+- Ex. $486\ g\ H_2O$ is heated from $8.50\degree C\rightarrow 74.6\degree C$. What is the heat absorbed?
+	- $q=ms\Delta T=(486\ g)*(4.184\ J/(g*K))*(66.1K)=134*10^3\ J=134\ kJ$
+	- How measure?
+- Constant V Calorimetry
+	- Use bomb calorimeter (see Fig 7.6)
+	- $q_{sample}=-q_{calorimeter}=-(q_{bomb}+q_{water})$ Therefore,
+		- $q_{sample}=-(calorimeter\ heat\ capacity)*(\Delta T)$
+- What is the heat capacity of the calorimeter used if $0.8650\ g$ of graphite releases $393.5\ kJ/mol$ & $\Delta T=2.613K$
+	- $q=C\Delta T$ $C=\frac{q}{\Delta T}$ $q_{calorimeter}=-q_{sample}$ 
