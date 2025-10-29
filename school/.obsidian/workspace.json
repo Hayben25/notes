@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chem 1311/Chapter 4 - Resonance.md",
+                "file": "Math 2415/14.8 - Increments and Differentials.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 4 - Resonance"
+              "title": "14.8 - Increments and Differentials"
             }
           }
         ]
@@ -193,6 +193,7 @@
   },
   "active": "1f9450297b32dfa7",
   "lastOpenFiles": [
+    "Chem 1311/Chapter 4 - Resonance.md",
     "Chem 1311/Chapter 6 - Types of Chemical Reactions and Solution Stoichiometry.md",
     "Chem 1311/Chapter 7 - Chemical Energy.md",
     "History 1301/Jacksonian Democracy.md",
@@ -217,7 +218,6 @@
     "Server/Authelia.md",
     "Server/Projects.md",
     "Chem 1311/Chapter 5 - Stoichiometry.md",
-    "Chem 1311/Chapter 4 - Resonance.md",
     "Chem 1311/Chapter 3 - Bonding.md",
     "Gov 2306/The Two Governments Texas vs Federal.md",
     "Math 2415/14.2 - Gradients and Directional Derivatives.md",
