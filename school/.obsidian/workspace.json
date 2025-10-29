@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 2415/15.3 - Polar Coordinates.md",
+                "file": "Math 2415/14.5 - Local Extreme Values.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "15.3 - Polar Coordinates"
+              "title": "14.5 - Local Extreme Values"
             }
           }
         ]
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0820487da3e1b86d",
@@ -194,10 +193,12 @@
   },
   "active": "1f9450297b32dfa7",
   "lastOpenFiles": [
-    "Math 2415/15.2 - Evaluation of double Integrals.md",
-    "Math 2415/15.3 - Polar Coordinates.md",
-    "Chem 1311/Chapter 7 - Chemical Energy.md",
+    "Math 2415/14.6 - Absolute Extreme Values.md",
     "Math 2415/14.8 - Increments and Differentials.md",
+    "Math 2415/14.7 - Maxima and Minima with Side Conditions.md",
+    "Math 2415/15.3 - Polar Coordinates.md",
+    "Math 2415/15.2 - Evaluation of double Integrals.md",
+    "Chem 1311/Chapter 7 - Chemical Energy.md",
     "Chem 1311/Chapter 4 - Resonance.md",
     "Chem 1311/Chapter 6 - Types of Chemical Reactions and Solution Stoichiometry.md",
     "History 1301/Jacksonian Democracy.md",
@@ -206,13 +207,11 @@
     "Math 2415/14.9 - Reconstructing a Function from its Gradient.md",
     "Math 2415/14.5 - Local Extreme Values.md",
     "Server/Electronic Sellers.md",
-    "Math 2415/14.7 - Maxima and Minima with Side Conditions.md",
     "Assignments/hcianess_Assignment5.md",
     "Pasted image 20251021221219.png",
     "Pasted image 20251021221612.png",
     "Pasted image 20251021183444.png",
     "Math 2415/14.4 - The Gradient as a Normal; Tangent lines and planes.md",
-    "Math 2415/14.6 - Absolute Extreme Values.md",
     "Server/Hardware.md",
     "Server/Physical Setup.md",
     "Server/Arch Linux VM Setup 2.md",
