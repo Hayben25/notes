@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chem 1311/Chapter 7 - Chemical Energy.md",
+                "file": "Math 2415/15.3 - Polar Coordinates.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 7 - Chemical Energy"
+              "title": "15.3 - Polar Coordinates"
             }
           }
         ]
@@ -194,13 +194,14 @@
   },
   "active": "1f9450297b32dfa7",
   "lastOpenFiles": [
+    "Math 2415/15.2 - Evaluation of double Integrals.md",
+    "Math 2415/15.3 - Polar Coordinates.md",
+    "Chem 1311/Chapter 7 - Chemical Energy.md",
     "Math 2415/14.8 - Increments and Differentials.md",
     "Chem 1311/Chapter 4 - Resonance.md",
     "Chem 1311/Chapter 6 - Types of Chemical Reactions and Solution Stoichiometry.md",
-    "Chem 1311/Chapter 7 - Chemical Energy.md",
     "History 1301/Jacksonian Democracy.md",
     "History 1301/Post Revolution.md",
-    "Math 2415/15.2 - Evaluation of double Integrals.md",
     "Math 2415/15.1 - Double Intergrals.md",
     "Math 2415/14.9 - Reconstructing a Function from its Gradient.md",
     "Math 2415/14.5 - Local Extreme Values.md",
@@ -223,7 +224,6 @@
     "Gov 2306/The Two Governments Texas vs Federal.md",
     "Math 2415/14.2 - Gradients and Directional Derivatives.md",
     "Server",
-    "Untitled.md",
     "Parabola linux",
     "Chem 1311/back"
   ]
