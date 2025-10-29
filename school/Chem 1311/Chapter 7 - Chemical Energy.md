@@ -51,7 +51,7 @@
 
 ## 7.1 Enthalpy
 
-- $H\define U+PV$ - state function
+- $H\in U+PV$ - state function
 - $\Delta H =\Delta U+P\Delta V=q+w+P\Delta V=q-P\Delta V+P\Delta V=q$
 - $\Delta H$ refers to the transfer of heat
 - For many reactions $\Delta H\approx\Delta U$ (but not always)
@@ -86,4 +86,50 @@
 	- $q_{sample}=-q_{calorimeter}=-(q_{bomb}+q_{water})$ Therefore,
 		- $q_{sample}=-(calorimeter\ heat\ capacity)*(\Delta T)$
 - What is the heat capacity of the calorimeter used if $0.8650\ g$ of graphite releases $393.5\ kJ/mol$ & $\Delta T=2.613K$
-	- $q=C\Delta T$ $C=\frac{q}{\Delta T}$ $q_{calorimeter}=-q_{sample}$ 
+	- $q=C\Delta T$ $C=\frac{q}{\Delta T}$ $q_{calorimeter}=-q_{sample}$
+	- Calorimeter heat capacity$=\frac{q_{calorimeter}}{\Delta T}\frac{-q_{sample}}{\Delta T}=\frac{-(-395.5\ kJ/mol)(\frac{0.8650}{12.01}mol\ C)}{2.613\ K}=10.85\ kJ/K$
+	- Not measuring $\Delta H$:
+		- $\Delta U =q+w=q-P\Delta V=q_v$
+		- but typically $\Delta H\approx\Delta U\implies$ small correction
+	- Constant P calorimery - simpler, see Fig. 7.5
+		- For other than combustion reactions
+			- $P_{const}\rightarrow \Delta H$
+- Ex. Drop a hot alloy into $H_2O$
+	- $q_{alloy}=-q_{H_2O}$
+		- $T_{final}$ is the same
+	- $q=m\ s\ \Delta T=m\ s(T_{final}-T_{initial})$
+- $\Delta H$ Calculations
+	- Frequently cannot measure $\Delta H_{rxn}$ directly
+	- Use the fact that H is a State Function
+	- $A+B\overrightarrow{_{\Delta H_{rxn}}}C+D$
+	- Hess's Law - when reactants $\rightarrow$ products, $\Delta H$ is the same whether reaction takes one step or many steps
+	- Ex. $(graphite)+2H_2(g)\rightarrow CH_4(g)$ doesn't happen as written
+		- How get $\Delta H$?
+		- Use reactions for which know $\Delta H$
+			1. $C(graphite)+O_2(g)\rightarrow CO_2(g)$
+				- $\Delta H^0$$_{rxn}=-393.5\ kJ$
+			2.  $2H_2(g)+O_2(g)\rightarrow 2H_2O(\ell)$
+				- $\Delta H^0$$_{rxn}=-571.6\ kJ$
+			3. $CH_4(g)+2O_2(g)\rightarrow CO_2(g)+2H_2O(\ell)$
+				- $\Delta H^0$$_{rxn}=-890.2\ kJ$
+		- $(1)+(2)-(3)$
+		- $\Delta H_{rxn}=\Delta H_1 +\Delta H_2-\Delta H_3=-74.9\ kJ$
+	- Know $\Delta H$ varies with conditions
+		- Standard $\Delta H$ of Formation and Standard $\Delta H$ of Reaction
+			- Gas: 1 atm & ideal behavior
+			- Aqueous solution: 1M
+			- Pure substance: most stable form at 1 atm and T of interest (for us $T=25\degree C$)
+			- $\Delta H^0$$_{rxn}$ ≡ the standard heat of reaction $\implies$ reactants and products in standard states
+		- Recall: formation reaction: 1 mol of compound form its elements
+			- $C(graphite)+2H_2(g)\rightarrow CH_4(g)\ \Delta H^0$$_{rxn}$
+			- Therefore, standard heat of formation for $CH_4=-74.9\ kJ/mol$
+		- $\Delta H^0$$_f$'s have been tabulated $\implies$ can use to calculate $\Delta^0$$_{rxn}$
+		- Note:
+		1. $\Delta H^0$$_f=0$ for element in its standard state
+			- $\implies \Delta H^0$$_f$(graphite)=0, $\Delta H^0$$_f$(diamond)$\ne 0$
+			- $\Delta H^0$$_f$($O_2(g)$)=0, $\Delta H^0$$_f$($O_3(g)$)$\ne 0$
+		2. $\Delta H^0$$_f\lt 0$ for most compouds
+			- $\implies$ most cases compounds are more stable than elements
+		3. $\Delta H^0$$_f=\sum n\Delta H^0$$_f(products)-\sum m\Delta H^0$$_f(reactants)$
+			- Ex. $C (graphite)+O_2(g)\rightarrow CO_2(g)$
+				- $\Delta H^0$$_f=(1)\Delta H^0$$_f(CO_2(g)-(1)\Delta H^0$$_f(C(graphite))-(1)
