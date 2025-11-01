@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Assignments/hcianessiAssignment6.md",
+                "file": "Chem 1311/Chapter 8 - Gasses.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "hcianessiAssignment6"
+              "title": "Chapter 8 - Gasses"
             }
           }
         ]
@@ -194,10 +194,11 @@
   },
   "active": "1f9450297b32dfa7",
   "lastOpenFiles": [
-    "Math 2415/15.2 - Evaluation of double Integrals.md",
-    "Assignments/hcianessiAssignment6.md",
-    "Math 2415/15.1 - Double Intergrals.md",
     "Chem 1311/Chapter 7 - Chemical Energy.md",
+    "Chem 1311/Chapter 8 - Gasses.md",
+    "Assignments/hcianessiAssignment6.md",
+    "Math 2415/15.2 - Evaluation of double Integrals.md",
+    "Math 2415/15.1 - Double Intergrals.md",
     "Math 2415/14.5 - Local Extreme Values.md",
     "Math 2415/14.7 - Maxima and Minima with Side Conditions.md",
     "Math 2415/14.6 - Absolute Extreme Values.md",
@@ -222,7 +223,6 @@
     "Server/Projects.md",
     "Chem 1311/Chapter 5 - Stoichiometry.md",
     "Chem 1311/Chapter 3 - Bonding.md",
-    "Gov 2306/The Two Governments Texas vs Federal.md",
     "Server",
     "Parabola linux",
     "Chem 1311/back"

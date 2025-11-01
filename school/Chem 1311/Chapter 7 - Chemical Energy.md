@@ -132,4 +132,27 @@
 			- $\implies$ most cases compounds are more stable than elements
 		3. $\Delta H^0$$_f=\sum n\Delta H^0$$_f(products)-\sum m\Delta H^0$$_f(reactants)$
 			- Ex. $C (graphite)+O_2(g)\rightarrow CO_2(g)$
-				- $\Delta H^0$$_f=(1)\Delta H^0$$_f(CO_2(g)-(1)\Delta H^0$$_f(C(graphite))-(1)
+				- $\Delta H^0$$_f=(1)\Delta H^0$$_f(CO_2(g)-(1)\Delta H^0$$_f(C(graphite))-(1)$
+	- Examples
+		- Calculate $\Delta H^0$$_fC_2H_2$
+			1. $C(graphite)+O_2\rightarrow CO_2(g)$     $\Delta H^0$$_{rxn}=-393.5\ kJ$
+			2. $H_2(g)+\frac{1}{2}O_2(g)\rightarrow H_2O(l)$      $\Delta H^0$$_{rxn}=-285.8\ kJ$
+			3. $2C_2H_2(g)+5O_2(g)\rightarrow 4CO_2(g)+2H_2O(l)$     $\Delta H^0$$_{rxn}=-2598.8\ kJ$
+			- $2C (graphite)+H_2(g)\rightarrow C_2H_2(g)$
+			- $2(eqn\ 1)+(eqn\ 2)-\frac{1}{2}(eqn\ 3)$
+				- $\Delta H^0$$_{rxn}=2\Delta H_1 + \Delta H_2-\frac{1}{2}\Delta H_3=2(-393.5)-285.8+\frac{1}{2}(-2598.8)=226.6\ kJ/mol$
+		- Ex. $B_5H_9$ explodes when exposed to $O_2$ according to $2B_5H_9(l)+12O_2(g)\rightarrow 5B_2O_3(s)+9H_2O(l)$
+			- (In 1950's considered for rocket fuel but no good because $B_2O_3$'s abrasiveness destroyed the nozzles)
+			- What is the kJ/g released in this reaction?
+			- $\Delta H^0$$_{rxn}=[(5)\Delta H^0$$_f(B_2O_3)+(9)\Delta H^0$$_f(H_2O)]-[(2)\Delta H^0$$_f(B_5H_9)+(12)\Delta H^0$$_f(O_2)]$
+				- $=[5*(-1263.6\ kJ/mol)+9*(-285.8\ kJ/mol)]-[2*(-73.2\ kJ/mol)]=-9036.6\ kJ$
+			- $\frac{\Delta H}{gm}=\frac{-9036.6\ kJ}{2\ mol\ B_5H_9}*\frac{1}{63.12\ g/mol\ B_5H_9}=-71.58\frac{kJ}{g\ B_5H_9}$
+	- Bond Energies and Thermochemistry 
+		- For calculation - use H = state function
+			- Gas phase
+				- Break all atoms in reactants $\Delta H_1$$^0=\sum BE(rectants)$
+				- Rebuild products $\Delta H_2$$^0=-\sum BE(products)$
+			- $\Delta H_{rxn}$$^0=\Delta H_1$$^0+\Delta H_2$$^0$
+			- Only for Diatomic or less molecules
+			- For polyatomics it gives an approximate result
+		- Liquid or solid must use $\Delta H_{vap}$, $\Delta H_{sub}$
