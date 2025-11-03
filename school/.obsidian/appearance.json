@@ -6,5 +6,5 @@
   "interfaceFontFamily": "JetBrains Mono Nerd",
   "monospaceFontFamily": "JetBrains Mono Nerd",
   "baseFontSizeAction": true,
-  "nativeMenus": false
+  "nativeMenus": true
 }
