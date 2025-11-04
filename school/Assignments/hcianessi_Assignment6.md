@@ -61,3 +61,22 @@ to[short, -*, i>_=$i_C$](3,0);
 		- $i_C=\frac{2.5\ V-\frac{4\ V*(8.2*10^3\ \Omega)}{6.2*10^3\ \Omega}}{\frac{(4.7*10^3\ \Omega)(8.2*10^3\ \Omega)}{6.2*10^3\ \Omega}+8.2*10^3\ \Omega+4.7*10^3\ \Omega}=-1.4597*10^{-4}\ A$
 	- Plugging the number we found for $i_C$ into the equation for $i_B$
 		- $i_B=\frac{-(-1.4597*10^{-4}\ A)*(4.2*10^3\ \Omega)-(-1.4597*10^{-4}\ A)*(6.2*10^3\ \Omega)-4\ V}{6.2*10^3\ \Omega}=-3.885\ A$
+
+## Problem 3
+
+```tikz
+\usepackage{circuitikz}
+\begin{document}
+\begin{circuitikz}[american]
+
+\draw (0,0)
+to[vsource=$v_A$, i>_=$i_A$] (0,4)
+to[R=$R_1$, v=$v_1$] (3,4)
+to[vsource=$v_B$] (3,3) to[short, i>_=$i_B$](3,2) to[,R=$R_3$, v=$v_3$](3,0) -- (0,0);
+\draw (3,4)
+to[R=$R_2$, v=$v_2$] (6,4) -- (6,0)
+to[short, -*, i>_=$i_C$](3,0);
+
+\end{circuitikz}
+\end{document}
+```
