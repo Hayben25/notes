@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 2415/15.7 - Cylindrical Coordinates.md",
+                "file": "History 1301/Cotton, Slavery, and The Old South.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "15.7 - Cylindrical Coordinates"
+              "title": "Cotton, Slavery, and The Old South"
             }
           }
         ]
@@ -194,8 +194,11 @@
   },
   "active": "1f9450297b32dfa7",
   "lastOpenFiles": [
-    "Math 2415/15.5 - Triple Integrals.md",
+    "History 1301/Jacksonian Democracy.md",
+    "History 1301/Cotton, Slavery, and The Old South.md",
+    "History 1301/Post Revolution.md",
     "Math 2415/15.7 - Cylindrical Coordinates.md",
+    "Math 2415/15.5 - Triple Integrals.md",
     "Math 2415/15.4 - Applications of Double Integrals.md",
     "Math 2415/15.3 - Polar Coordinates.md",
     "Chem 1311/Chapter 8 - Gasses.md",
@@ -209,8 +212,6 @@
     "Math 2415/14.8 - Increments and Differentials.md",
     "Chem 1311/Chapter 4 - Resonance.md",
     "Chem 1311/Chapter 6 - Types of Chemical Reactions and Solution Stoichiometry.md",
-    "History 1301/Jacksonian Democracy.md",
-    "History 1301/Post Revolution.md",
     "Math 2415/14.9 - Reconstructing a Function from its Gradient.md",
     "Server/Electronic Sellers.md",
     "Assignments/hcianess_Assignment5.md",
@@ -222,7 +223,6 @@
     "Server/Physical Setup.md",
     "Server/Arch Linux VM Setup 2.md",
     "Server/Arch Linux VM Setup 1.md",
-    "Server/Authelia.md",
     "Server",
     "Parabola linux",
     "Chem 1311/back"
