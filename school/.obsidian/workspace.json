@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0820487da3e1b86d",
@@ -157,8 +156,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -172,7 +171,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -193,7 +192,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1023a39866e79a2c",
+  "active": "557e6230a74b05d8",
   "lastOpenFiles": [
     "Assignments/hcianess_Assignment6.md",
     "Excalidraw/Drawing 2025-11-04 19.40.09.excalidraw.md",
