@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Assignments/hcianess_Assignment6.md",
+                "file": "Chem 1311/Chapter 8 - Gasses.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "hcianess_Assignment6"
+              "title": "Chapter 8 - Gasses"
             }
           }
         ]
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0820487da3e1b86d",
@@ -194,11 +195,11 @@
   },
   "active": "1023a39866e79a2c",
   "lastOpenFiles": [
+    "Assignments/hcianess_Assignment6.md",
     "Excalidraw/Drawing 2025-11-04 19.40.09.excalidraw.md",
     "Excalidraw/Drawing 2025-11-04 18.29.04.excalidraw.md",
     "Excalidraw/Drawing 2025-11-04 19.37.19.excalidraw.md",
     "Excalidraw/Drawing 2025-11-04 19.27.32.excalidraw.md",
-    "Assignments/hcianess_Assignment6.md",
     "Excalidraw/Pasted Image 20251104184816_759.svg.md",
     "Excalidraw/drive-download-20251105T004844Z-1-001.zip",
     "Excalidraw/Unconfirmed 200793.crdownload",
