@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Assignments/hcianessi_Assignment6.md",
+                "file": "Assignments/hcianess_Assignment6.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "hcianessi_Assignment6"
+              "title": "hcianess_Assignment6"
             }
           }
         ]
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0820487da3e1b86d",
@@ -189,14 +188,22 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "1023a39866e79a2c",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-11-04 19.40.09.excalidraw.md",
+    "Excalidraw/Drawing 2025-11-04 18.29.04.excalidraw.md",
+    "Excalidraw/Drawing 2025-11-04 19.37.19.excalidraw.md",
+    "Excalidraw/Drawing 2025-11-04 19.27.32.excalidraw.md",
+    "Assignments/hcianess_Assignment6.md",
+    "Excalidraw/Pasted Image 20251104184816_759.svg.md",
+    "Excalidraw/drive-download-20251105T004844Z-1-001.zip",
+    "Excalidraw/Unconfirmed 200793.crdownload",
     "Untitled 1.circuit-sketcher",
     "Untitled.circuit-sketcher",
-    "Assignments/hcianessi_Assignment6.md",
     "Excalidraw/Drawing 2025-11-04 16.07.44.excalidraw.md",
     "Excalidraw/Drawing 2025-11-04 16.03.56.excalidraw.md",
     "Excalidraw",
@@ -218,13 +225,9 @@
     "Chem 1311/Chapter 4 - Resonance.md",
     "Chem 1311/Chapter 6 - Types of Chemical Reactions and Solution Stoichiometry.md",
     "Math 2415/14.9 - Reconstructing a Function from its Gradient.md",
-    "Server/Electronic Sellers.md",
-    "Assignments/hcianess_Assignment5.md",
     "Pasted image 20251021221219.png",
     "Pasted image 20251021221612.png",
     "Pasted image 20251021183444.png",
-    "Math 2415/14.4 - The Gradient as a Normal; Tangent lines and planes.md",
-    "Server/Hardware.md",
     "Server",
     "Parabola linux",
     "Chem 1311/back"
