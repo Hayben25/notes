@@ -4,5 +4,6 @@
   "obsidian-hider",
   "table-editor-obsidian",
   "obsidian-tikzjax",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "obsidian-pandoc"
 ]
