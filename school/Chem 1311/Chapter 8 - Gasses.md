@@ -97,3 +97,49 @@
 - When $H_2O$ in tube level with $H_2O$ in beaker
 	- $P_{tot}=P_{atm}$
 	- $P_{tot}=P_{gas}+P_{H_2O}$
+- Gas Laws predict behavior but why do they hold?
+	- Must look at molecular level
+
+## Kinetic Molecular Theory
+
+- L. Boltzmann and J. C. Maxwell
+- Determined (mathematically) that gas properties could be explained from motions of individual molecules
+- Kinetic Molecular Theory Postulates
+	1. Molecular volume is negligible, particles considered as points
+	2. Molecules in constant **random** motion, they can gain or lose energy when they collide but total $E_K$ for all molecules stay the same (collisions are elastic)
+	3. No attractive or repulsive forces in between collisions
+	4. $\bar{E_K}\propto T$ (In $K$)
+- $u : \bar{u^2}=frac{u_1^2+u_2^2+\dots+u_N^2}{N}=$mean square speed
+- $\bar{E_K}=\frac{1}{2}m\bar{u^2}\implies \frac{1}{2}m\bar{u^2}\propto T$ (as stated in postulate 4)
+	- or $\frac{1}{2}m\bar{u^2}=CT$
+
+## Distribution of Molecular Speeds
+
+- Depends on T
+- Derived mathematically by Maxwell
+- Fig 8.21
+- From Kinetic Molecular Theory:
+	- $PV=\frac{1}{3}nM\bar{u^2}=nRT$
+	- $\rightarrow \bar{u^2}=\frac{3RT}{M}$, or $\sqrt{\bar{u^2}}=u_{rms}=\sqrt{\frac{3RT}{M}}$
+		- $=1.92*10^3\ m/s$ for $H_2\ @\ 25\degree C$ ~2x bullet
+	- Also get meaning of $T$: $\bar{E_K}=\frac{3}{2}(\frac{R}{N_A})T$
+
+## 8.7 Graham's Laws of Diffusion and Effusion
+
+- Diffusion - movement of one gas through another
+	- Demonstrates random motion
+		- Mean free path: average distance traveled between successive collisions
+	- Because random motion $\rightarrow$ diffusion takes a long time
+	- Since $u_{rms}$ light gas > $u_{rms}$ heavy gas; at same T lighter gasses diffuse faster
+- Graham's Law of Diffusion
+	- When T, P same
+		- $\frac{rate_1}{rate_2}=\sqrt{\frac{M_1}{M_2}}$
+	- Explained  by kintetic theory
+		- $rate\propto u_{rms}=\sqrt{\frac{3RT}{M}}$
+		- At same T
+			- $\frac{rate_1}{rate_2}=\frac{(u_{rms})_1}{(u_{rms})_2}=\sqrt\frac{M_1}{M_2}=\frac{\ell/t_1}{\ell/t_2}=\frac{t_2}{t_1}$
+- Effusion - process by which gas escapes a container through a tiny hole
+	- Although process is different it has the same equation given by *Graham's Law of Diffusion*
+	- $\frac{rate_1}{rate_2}=\sqrt\frac{M_1}{M_2}$
+- Ex Compare effusion rates of He vs. $N_2$
+	- $\frac{rate_{He}}{rate_{N_2}}=\sqrt\frac{28.02}{4.003}=2.65$ 
