@@ -1,0 +1,27 @@
+## 9.1 Intermolecular Forces
+
+- See figs 9.2, 9.5 and table 9.3
+- dipole - charge separation within a molecule
+	- $_{+}\underrightarrow{H-Cl}$
+- Dispersion (London)
+	- common to all molecules
+	- induced dipole-induced dipole
+		- $N_2\dots\dots N_2$
+			- When by themselves they would have circular electron cloud
+		- Since there is 2+ molecules each electron cloud is distorted
+- Dipole-dipole, dipole-induced dipole, and induced dipole-induced dipole - Van der Waals Forces
+- > 1 can be present at the same time 
+	- Ex - polar molecule molecule $H-Cl$:
+		- Dispersion
+		- Dipole-Dipole
+		- Dipole-Induced Dipole
+	- Ex - nonpolar molecule $N_2$:
+		- Dispersion
+- Induced Dipoles: *polarizibility* is important
+	- polarizibility - how readily e$^-$ cloud can be distorted
+	- Bigger atoms are more polarizable than smaller ones $\implies$ atoms left and down on the periodic table are more polarizable
+	- As molar mass $\uparrow$  polarizibility $\uparrow$
+	- Dispersion forces also depend on polarizibility
+		- Usually $\uparrow$ with  $\uparrow$ molar mass
+	- nonpolar substance, same mass: shape is important
+		- elongated > more compact ones

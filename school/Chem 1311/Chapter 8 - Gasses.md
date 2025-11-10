@@ -143,3 +143,11 @@
 	- $\frac{rate_1}{rate_2}=\sqrt\frac{M_1}{M_2}$
 - Ex Compare effusion rates of He vs. $N_2$
 	- $\frac{rate_{He}}{rate_{N_2}}=\sqrt\frac{28.02}{4.003}=2.65$ 
+
+## Van der Waals Equation
+
+- $[P_{obs}+a(\frac{n}{V})^2]\times(V-nb)=nRT$
+	- $P_{obs}$ -observed pressure
+		- is lower (but not always)
+	- Volume available is lower because the ideal gas equation assumes molecules don't take up space
+- Deviations from Ideal Gas Behavior @ high pressure, low temperature

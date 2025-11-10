@@ -11,10 +11,15 @@
             "id": "f49beaec946644bd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Math 2415/15.9 - The Jacobian Changing Variables in Multiple Integration.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "15.9 - The Jacobian Changing Variables in Multiple Integration"
             }
           }
         ]
@@ -74,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0820487da3e1b86d",
@@ -190,6 +194,7 @@
   },
   "active": "f49beaec946644bd",
   "lastOpenFiles": [
+    "Chem 1311/Chapter 9 - Liquids and Solids.md",
     "Chem 1311/Chapter 8 - Gasses.md",
     "Math 2415/15.7 - Cylindrical Coordinates.md",
     "Math 2415/15.4 - Applications of Double Integrals.md",
@@ -220,7 +225,6 @@
     "Chem 1311/Chapter 7 - Chemical Energy.md",
     "Math 2415/14.5 - Local Extreme Values.md",
     "Math 2415/14.7 - Maxima and Minima with Side Conditions.md",
-    "Math 2415/14.6 - Absolute Extreme Values.md",
     "Pasted image 20251021221219.png",
     "Pasted image 20251021221612.png",
     "Pasted image 20251021183444.png",
