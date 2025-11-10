@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "fe893ca24f8502cf",
+        "id": "fe775bf21f9a9c89",
         "type": "tabs",
         "children": [
           {
-            "id": "1023a39866e79a2c",
+            "id": "f49beaec946644bd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math 2415/15.7 - Cylindrical Coordinates.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "15.7 - Cylindrical Coordinates"
+              "title": "New tab"
             }
           }
         ]
@@ -79,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0820487da3e1b86d",
@@ -192,15 +188,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "557e6230a74b05d8",
+  "active": "f49beaec946644bd",
   "lastOpenFiles": [
-    "Math 2415/15.4 - Applications of Double Integrals.md",
     "Chem 1311/Chapter 8 - Gasses.md",
+    "Math 2415/15.7 - Cylindrical Coordinates.md",
+    "Math 2415/15.4 - Applications of Double Integrals.md",
     "Math 2415/15.3 - Polar Coordinates.md",
     "Assignments/hcianess_Assignment6.md",
     "Math 2415/15.9 - The Jacobian Changing Variables in Multiple Integration.md",
     "Math 2415/15.8 - Spherical Coordinates.md",
-    "Math 2415/15.7 - Cylindrical Coordinates.md",
     "Math 2415/15.2 - Evaluation of double Integrals.md",
     "Math 2415/15.1 - Double Intergrals.md",
     "Math 2415/14.9 - Reconstructing a Function from its Gradient.md",
