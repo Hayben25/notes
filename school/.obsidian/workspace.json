@@ -21,21 +21,8 @@
               "icon": "lucide-file",
               "title": "Benevolent Reform"
             }
-          },
-          {
-            "id": "b7c5730221f17e21",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0820487da3e1b86d",
@@ -206,11 +192,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b7c5730221f17e21",
+  "active": "f49beaec946644bd",
   "lastOpenFiles": [
+    "Math 2415/15.9 - The Jacobian Changing Variables in Multiple Integration.md",
     "Math 2415/16.1 - Line Integrals and Work.md",
     "History 1301/Benevolent Reform.md",
-    "Math 2415/15.9 - The Jacobian Changing Variables in Multiple Integration.md",
     "Chem 1311/Chapter 9 - Liquids and Solids.md",
     "Chem 1311/Chapter 8 - Gasses.md",
     "Math 2415/15.7 - Cylindrical Coordinates.md",
