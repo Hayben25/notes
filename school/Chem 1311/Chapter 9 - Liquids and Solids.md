@@ -25,3 +25,37 @@
 		- Usually $\uparrow$ with  $\uparrow$ molar mass
 	- nonpolar substance, same mass: shape is important
 		- elongated > more compact ones
+
+## The Hydrogen Bond
+
+- Dipole-dipole interaction
+- Interaction between H-atom bonded to N, O, or F with a lone pair in electronegative atom such as O, N, or F
+- Ex $CH_3Br$ or $CH_3F$
+	- $CH_3Br$
+		- dispersion, dipole-dipole, dipole-induced dipole
+		- high boiling point
+		- low vapor pressure
+	- $CH_3F$
+		- dispersion, dipole-dipole, dipole-induced dipole
+- $CH_3CH_2CH_2OH$ (propranolol) or $CH_3CH_2OCH_3$ (ethyl-methyl ether)
+	- Dispersion, dipole-dipole, dipole-induced dipole
+	- Propranolol has the highest bp and lowest vp
+
+## 9.2 Properties of the liquid state
+
+- Surface tension
+	- Attractions lower E
+	- Fig 9.6
+	- Liquid molecules at the surface:
+		- Feel a net attraction inward
+		- $\implies$ liquids end towards smallest surface area (spherical shapes)
+	- To $\uparrow$ surface area must break attractions to interior
+		- Surface tension: E required to $\uparrow$ surface area by unit amount
+		- As attractive forces $\uparrow$ surface tension $\uparrow$
+- Capillarity
+	- Depends on adhesion (liquid-solid) and cohesion (liquid-liquid)
+		- Relative strengths dictate the shape of a liquid's meniscus
+	- Ex. Glass ($SiO_2$)
+		- Adhesive forces are greater than water
+		- Water $\rightarrow$ concave meniscus due to stronger adhesive forces
+		- $Hg\rightarrow$ convex meniscus due to stronger cohesive forcesq
