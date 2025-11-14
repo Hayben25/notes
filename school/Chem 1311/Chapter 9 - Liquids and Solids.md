@@ -58,4 +58,36 @@
 	- Ex. Glass ($SiO_2$)
 		- Adhesive forces are greater than water
 		- Water $\rightarrow$ concave meniscus due to stronger adhesive forces
-		- $Hg\rightarrow$ convex meniscus due to stronger cohesive forcesq
+		- $Hg\rightarrow$ convex meniscus due to stronger cohesive forces
+- Viscosity
+	- Resistance to flow in liquids
+	- For flow, molecules slide across one another
+		- Intermolecular attraction hampers flow ($\uparrow$ viscosity)
+		- Shape is important (longer molecules $\uparrow$ viscosity)
+
+## 9.3 Phase Transitions
+
+- Fig 9.8 (vaporization)
+- $T\uparrow\implies$ more molecules have sufficient energy
+- $\Delta H_{vap}>0$ (ex. rub alcohol between your hands)
+- Dynamic Equilibrium
+- P exerted by vapor at equilibrium = equilibrium vapor pressure
+	- or just vapor pressure of liquid at T
+- Intermolecular attraction $\uparrow$
+	- $\Delta H_{vap}\uparrow,\ VP\downarrow$
+- VP is a function of T (fig 9.12)
+- \[HI, HCl, HF]
+	- lowest b.p (weaker) HCl
+	- highest $\Delta H_{vap}$ (strongest) HF
+	- lowest VP (strongest) HF
+- For calculations of VP at different T use Clausius-Clapeyron equation (9-2)
+- Normal bp - vp temp at 1 atm
+
+## Boiling
+
+- $P_{inside}=$VP of liq
+- If VP$<P_{ext}$; bubble collapses
+- If VP=$P_{ext}$; bubble rises & escapes
+	- boiling point = T at which VP = $P_{ext}$
+	- normal bp = bp when $P_{ext}=1\ atm$
+- Attraction $\uparrow\implies\ bp\uparrow$ 
