@@ -3,6 +3,7 @@
   "strictLineBreaks": false,
   "readableLineLength": false,
   "pdfExportSettings": {
+    "includeName": false,
     "pageSize": "Letter",
     "landscape": false,
     "margin": "0",
