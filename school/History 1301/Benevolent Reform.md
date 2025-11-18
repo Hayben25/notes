@@ -40,3 +40,4 @@
 	- Former slave
 - Susan B Anthony
 - Virginia Minor
+
