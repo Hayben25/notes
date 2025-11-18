@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Assignments/Chem-Writing-Assignment.md",
+                "file": "Math 2415/16.2 - The fundamental Theorem for Line integrals.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Chem-Writing-Assignment"
+              "title": "16.2 - The fundamental Theorem for Line integrals"
             }
           }
         ]
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0820487da3e1b86d",
@@ -194,6 +195,10 @@
   },
   "active": "f49beaec946644bd",
   "lastOpenFiles": [
+    "Math 2415/16.3 - Line integrals in different notation.md",
+    "Math 2415/16.2 - The fundamental Theorem for Line integrals.md",
+    "Math 2415/16.1 - Line Integrals and Work.md",
+    "Assignments/Chem-Writing-Assignment.md",
     "Math 2415/14.7 - Maxima and Minima with Side Conditions.md",
     "Chem 1311/Chapter 9 - Liquids and Solids.md",
     "Chem 1311/Chapter 8 - Gasses.md",
@@ -209,7 +214,6 @@
     "Math 2415/14.8 - Increments and Differentials.md",
     "Math 2415/15.2 - Evaluation of double Integrals.md",
     "Math 2415/15.9 - The Jacobian Changing Variables in Multiple Integration.md",
-    "Math 2415/16.1 - Line Integrals and Work.md",
     "Math 2415/15.7 - Cylindrical Coordinates.md",
     "Math 2415/15.4 - Applications of Double Integrals.md",
     "Math 2415/15.3 - Polar Coordinates.md",
@@ -217,9 +221,6 @@
     "Math 2415/15.8 - Spherical Coordinates.md",
     "Math 2415/14.9 - Reconstructing a Function from its Gradient.md",
     "Math 2415/15.5 - Triple Integrals.md",
-    "Excalidraw/Drawing 2025-11-04 19.40.09.excalidraw.md",
-    "Excalidraw/Drawing 2025-11-04 18.29.04.excalidraw.md",
-    "Excalidraw/Drawing 2025-11-04 19.37.19.excalidraw.md",
     "Excalidraw/drive-download-20251105T004844Z-1-001.zip",
     "Excalidraw/Unconfirmed 200793.crdownload",
     "Untitled 1.circuit-sketcher",
