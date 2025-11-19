@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engi 1100/Chapter 5.md",
+                "file": "Chem 1311/Chapter 9 - Liquids and Solids.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 5"
+              "title": "Chapter 9 - Liquids and Solids"
             }
           }
         ]
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0820487da3e1b86d",
@@ -194,9 +195,10 @@
   },
   "active": "f49beaec946644bd",
   "lastOpenFiles": [
+    "Chem 1311/Chapter 9 - Liquids and Solids.md",
+    "Engi 1100/Chapter 5.md",
     "Engi 1100/Chapter 3.md",
     "Engi 1100/Chapter 4.md",
-    "Engi 1100/Chapter 5.md",
     "History 1301/The Civil War and Its Causes.md",
     "History 1301/Benevolent Reform.md",
     "Math 2415/16.2 - The fundamental Theorem for Line integrals.md",
@@ -204,7 +206,6 @@
     "Math 2415/16.1 - Line Integrals and Work.md",
     "Assignments/Chem-Writing-Assignment.md",
     "Math 2415/14.7 - Maxima and Minima with Side Conditions.md",
-    "Chem 1311/Chapter 9 - Liquids and Solids.md",
     "Chem 1311/Chapter 8 - Gasses.md",
     "History 1301/Causes of The American Revolution.md",
     "History 1301/Jacksonian Democracy.md",

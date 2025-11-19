@@ -91,3 +91,51 @@
 	- boiling point = T at which VP = $P_{ext}$
 	- normal bp = bp when $P_{ext}=1\ atm$
 - Attraction $\uparrow\implies\ bp\uparrow$ 
+
+## Solid - Vapor Equilibrium
+
+- sublimation $= s\rightarrow g$
+- deposition $= g\rightarrow s$
+- condensation $= g\rightarrow l$
+- $\Delta H_{sub}=\Delta H_{fus}+\Delta H_{vap}$
+
+## Phase diagram
+
+- Gas $\implies$ high temp, low pressure
+- Solid $\implies$ low temp, high pressure
+
+## 9.4 Properties of Solids
+
+- 2 types of solids
+	- Crystalline solids: highly regular arrangement
+	- Amorphous Solids: considerable disorder
+- Structure of Crystalline Solids
+	- Each particle lies in a specific point
+		- Crystal lattice: regular pattern formed by the points
+	- Fig. 9.32, 9.24
+	- Unit cell: repeats itself in all 3 directions (made up of particles on specific points)
+	- Types of cubic unit cells
+		- Simple cubic: Particles at the vertices of a cube
+		- Body centered cubic (bcc): Simple cubic with another particle at the center
+		- Face centered cubic (fcc): Simple cubic with other particles at all 6 faces
+	- Coordination number: \# of nearest neighbors around a particle in a crystal
+		- Simple Cubic CN=6
+		- BCC Cubic CN=8
+		- FCC Cubic CN=12
+	- atoms/unit cell (spheres/unit cell): 
+		- Atoms in the center are a full atom in the unit cell
+		- Atoms at vertices of a unit cell are $\frac{1}{8}$ of an atom
+		- Atoms at a face of a unit cell are $\frac{1}{2}$ of an atom
+		- Simple Cubic $\frac{atoms}{unit\ cell}=1$
+		- BCC $\frac{atoms}{unit\ cell}=2$
+		- FCC $\frac{atoms}{unit\ cell}=4$
+	- In ionic compounds unit cell has the same cation/anion ration as empirical formula
+- Types of Crystalline Solids 
+	- Classified according to type of particles and interparticle forces
+		- Ionic solids
+		- Atomic solids
+			- Metallic solids
+			- Network solids (a.k.a Network Covalent solids)
+			- Group 8A solids
+		- Molecular solids
+	- Fig 9.27
