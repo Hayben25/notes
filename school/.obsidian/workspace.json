@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chem 1311/Chapter 9 - Liquids and Solids.md",
+                "file": "Math 2415/16.4 - Parameterized Surfaces Surface Area.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 9 - Liquids and Solids"
+              "title": "16.4 - Parameterized Surfaces Surface Area"
             }
           }
         ]
@@ -195,15 +195,16 @@
   },
   "active": "f49beaec946644bd",
   "lastOpenFiles": [
+    "Math 2415/16.3 - Line integrals in different notation.md",
+    "Math 2415/16.4 - Parameterized Surfaces Surface Area.md",
+    "Math 2415/16.1 - Line Integrals and Work.md",
+    "Math 2415/16.2 - The fundamental Theorem for Line integrals.md",
     "Chem 1311/Chapter 9 - Liquids and Solids.md",
     "Engi 1100/Chapter 5.md",
     "Engi 1100/Chapter 3.md",
     "Engi 1100/Chapter 4.md",
     "History 1301/The Civil War and Its Causes.md",
     "History 1301/Benevolent Reform.md",
-    "Math 2415/16.2 - The fundamental Theorem for Line integrals.md",
-    "Math 2415/16.3 - Line integrals in different notation.md",
-    "Math 2415/16.1 - Line Integrals and Work.md",
     "Assignments/Chem-Writing-Assignment.md",
     "Math 2415/14.7 - Maxima and Minima with Side Conditions.md",
     "Chem 1311/Chapter 8 - Gasses.md",
@@ -220,7 +221,6 @@
     "Math 2415/15.9 - The Jacobian Changing Variables in Multiple Integration.md",
     "Math 2415/15.7 - Cylindrical Coordinates.md",
     "Math 2415/15.4 - Applications of Double Integrals.md",
-    "Math 2415/15.3 - Polar Coordinates.md",
     "Excalidraw/drive-download-20251105T004844Z-1-001.zip",
     "Excalidraw/Unconfirmed 200793.crdownload",
     "Untitled 1.circuit-sketcher",
