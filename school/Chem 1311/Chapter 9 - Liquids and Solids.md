@@ -138,4 +138,31 @@
 			- Network solids (a.k.a Network Covalent solids)
 			- Group 8A solids
 		- Molecular solids
-	- Fig 9.27
+	- Fig 9.2, table 9.7, 9.11
+- Packing Efficiency
+	- % of space occupied by a given arrangement
+	- Simple Cubic: 52%
+	- BCC: 68%
+	- Metals can be thought of spherical atoms packed together and bonded equally in all directions
+		- Many metal (and all Group8A solids) crystallize in closest-packed structures
+		- Closest Packed Structures
+			- Two ways to maximize packing efficiency in 3d
+			- 74% packing efficiency (figs 9.28-9.32)
+	- For calculations
+		- V of the unit cell in terms of radius
+		- $V=d^3$ where $d=$ edge length of the cell
+		- Ex fcc
+			- pg 391
+			- $hypotenuse=r+2r+r=4r$
+			- $2d^2=(4r)^2\implies d_{fcc}=\sqrt 8r=2\sqrt 2 r$
+		- $d_{bcc}=\frac{4}{\sqrt 3} r;\ d_{sc}=2r$
+- Models of Metallic Bonding
+	- Band theory: quantitative model of bonding in solids
+		- $\psi$'s of valence e$^-$ interact with each other
+		- Bonding molecular orbitals (MO) result from constructive interference
+		- Anti-bonding MO's result from destructive interference
+	- Band gap:
+		- Metals have no band gap
+		- Semiconductors have a small gap
+		- Insulators have a large gap
+	- 
