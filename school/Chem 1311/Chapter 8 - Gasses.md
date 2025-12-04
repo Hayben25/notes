@@ -12,7 +12,7 @@
 	- See Fig 8.2
 - Standard Atmospheric Pressure (1 atm)
 	-  The pressure that supports a column of Hg exactly 760 mm high at 0$\degree$C at sea level
-	- 1 torr = 1 mm Hg $\implies$ 1 atm = 760 mm Hg =760 torr
+	- 1 torr = 1 mm Hg $\implies$ 1 atm = 760 mm Hg = 760 torr
 
 ## 8.2 The Gas Laws
 
@@ -109,7 +109,7 @@
 	2. Molecules in constant **random** motion, they can gain or lose energy when they collide but total $E_K$ for all molecules stay the same (collisions are elastic)
 	3. No attractive or repulsive forces in between collisions
 	4. $\bar{E_K}\propto T$ (In $K$)
-- $u : \bar{u^2}=frac{u_1^2+u_2^2+\dots+u_N^2}{N}=$mean square speed
+- $u : \bar{u^2}=\frac{u_1^2+u_2^2+\dots+u_N^2}{N}=$mean square speed
 - $\bar{E_K}=\frac{1}{2}m\bar{u^2}\implies \frac{1}{2}m\bar{u^2}\propto T$ (as stated in postulate 4)
 	- or $\frac{1}{2}m\bar{u^2}=CT$
 
@@ -147,7 +147,7 @@
 ## Van der Waals Equation
 
 - $[P_{obs}+a(\frac{n}{V})^2]\times(V-nb)=nRT$
-	- $P_{obs}$ -observed pressure
+	- $P_{obs}$ - observed pressure
 		- is lower (but not always)
 	- Volume available is lower because the ideal gas equation assumes molecules don't take up space
 - Deviations from Ideal Gas Behavior @ high pressure, low temperature

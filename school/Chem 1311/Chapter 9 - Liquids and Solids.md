@@ -165,4 +165,32 @@
 		- Metals have no band gap
 		- Semiconductors have a small gap
 		- Insulators have a large gap
+	- Semiconductors
+		- Electrical conductivity can be modified via doping
+			- Doping - adding trace amounts of an element to a substance to modify its properties
+			- n-type semiconductor: doped with a valance e$^-$ rich element; "negative"
+			- p-type semiconductor: doped with a valence e$^-$ deficient element; "positive"
+			- See fig 9.44
+		- p-n junction
+			- See fig 9.45
+			- unidirectional flow makes it act as a rectifier
+				- converts AC to DC
+			- diodes
+- Binary Ionic Solids
+	- Most explained by cubic closed packed structure
+		- Larger ion (usually anion) in cpp arrangement
+		- smaller ion in the holes
+		- trigonal < tetrahedral < tetrahedral
+	- Ex Zinc Blende (ZnS)
+		- Closest packed: fcc unit cell
+			- $\implies\ S^2$ in fcc unit cell (4 atoms/cell)
+			- $\implies$ 8 tetrahedral holes
+		- $Zn^{2+}$ in tetrahedral holes
+		- Results: Zinc blend structure = face centered arrays of S$^{-2}$ and Zn$^{2+}$ interpenetrating each other
+			- Each cation is surrounded by 4 anions and vice versa (CN = 4)
+	- Ex NaCl
+		- Cl$^-$ in fcc structure
+		- Na$^+$ in octahedral holes
+		- Result: NaCl lattice = face centered arrays of Cl$^-$ and Na$^+$ interpenetrating each other
+			- Each cation is surrounded by 6 anions and vice versa (CN = 6)
 	- 

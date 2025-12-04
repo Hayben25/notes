@@ -1,25 +1,20 @@
 {
   "main": {
-    "id": "1b647f8c1629ae5e",
+    "id": "23d879ab74438390",
     "type": "split",
     "children": [
       {
-        "id": "5c2d884f8fee9437",
+        "id": "abcf96a460313d45",
         "type": "tabs",
         "children": [
           {
-            "id": "a53cf340f7f7e013",
+            "id": "b7cb51036836b6fa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math 2415/16.8 - Stokes' Theorem.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "16.8 - Stokes' Theorem"
+              "title": "New tab"
             }
           }
         ]
@@ -28,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a54a87ba00a5e36f",
+    "id": "792063bab5b204b8",
     "type": "split",
     "children": [
       {
-        "id": "12139f79fbd61c37",
+        "id": "820b163acd849524",
         "type": "tabs",
         "children": [
           {
-            "id": "557e6230a74b05d8",
+            "id": "e35786f3a0669c71",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -49,7 +44,7 @@
             }
           },
           {
-            "id": "79dc2b999fc207c1",
+            "id": "6425877eb74c5ff1",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -66,7 +61,7 @@
             }
           },
           {
-            "id": "3b585cae04551c95",
+            "id": "82f4f4f824fcc70f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -79,24 +74,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "0820487da3e1b86d",
+    "id": "a16638ce5c37427c",
     "type": "split",
     "children": [
       {
-        "id": "89f5d6f2a5aaec24",
+        "id": "311e7c0962e37d62",
         "type": "tabs",
         "children": [
           {
-            "id": "0c761a5777e0fbaa",
+            "id": "a671f712b0132af4",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 2415/14.4 - The Gradient as a Normal; Tangent lines and planes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,11 +99,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 14.4 - The Gradient as a Normal; Tangent lines and planes"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "edb2c80bbd3a4e82",
+            "id": "96aeaae454a2f2b0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -123,7 +116,7 @@
             }
           },
           {
-            "id": "a2291bdfa6c3ff4d",
+            "id": "f57907d1d4921017",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -138,7 +131,21 @@
             }
           },
           {
-            "id": "22110837ddda7429",
+            "id": "ef2c295e39af68ab",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "2e92b5c2c0ce4da4",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -150,29 +157,8 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
-          },
-          {
-            "id": "925abbc1660af9b8",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
-            }
-          },
-          {
-            "id": "9eb522f99437d7ce",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -187,50 +173,9 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "bases:Create new base": false
     }
   },
-  "active": "a53cf340f7f7e013",
-  "lastOpenFiles": [
-    "Chem 1311/Chapter 9 - Liquids and Solids.md",
-    "Math 2415/16.5 - Surface Integrals.md",
-    "Math 2415/16.4 - Parameterized Surfaces Surface Area.md",
-    "Math 2415/16.6 - The Vector Differential Opporator.md",
-    "Math 2415/16.1 - Line Integrals and Work.md",
-    "Math 2415/16.2 - The fundamental Theorem for Line integrals.md",
-    "Math 2415/16.3 - Line integrals in different notation.md",
-    "Math 2415/16.7 - The Divergence Theorem.md",
-    "Math 2415/16.8 - Stokes' Theorem.md",
-    "Chem 1311/Chapter 8 - Gasses.md",
-    "Chem 1311/Chapter 7 - Chemical Energy.md",
-    "History 1301/The Demise and Resurrection of Slavery.md",
-    "History 1301/The Civil War and Its Causes.md",
-    "History 1301/Causes of The American Revolution.md",
-    "History 1301/Benevolent Reform.md",
-    "Server/Arch Linux VM Setup 1.md",
-    "Server/Projects.md",
-    "Server/Physical Setup.md",
-    "Server/Hardware.md",
-    "Server/Electronic Sellers.md",
-    "Server/Authelia.md",
-    "Server/Arch Linux VM Setup 2.md",
-    "Math 2415/math2415.md",
-    "Engi 1100/Chapter 5.md",
-    "Engi 1100/Chapter 3.md",
-    "Engi 1100/Chapter 4.md",
-    "Excalidraw/drive-download-20251105T004844Z-1-001.zip",
-    "Excalidraw/Unconfirmed 200793.crdownload",
-    "Untitled 1.circuit-sketcher",
-    "Untitled.circuit-sketcher",
-    "Excalidraw",
-    "Pasted image 20251021221219.png",
-    "Pasted image 20251021221612.png",
-    "Pasted image 20251021183444.png",
-    "Server",
-    "Parabola linux",
-    "Chem 1311/back"
-  ]
+  "active": "b7cb51036836b6fa",
+  "lastOpenFiles": []
 }
