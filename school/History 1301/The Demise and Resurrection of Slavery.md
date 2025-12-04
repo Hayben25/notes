@@ -42,3 +42,40 @@
 - 15$^{th}$ Amendment - 1870
 - Enforcement Acts - 1870-1871
 - Tenure of Office Act - 1867
+
+## The New South
+
+- Heavily Segregated
+	- *De Facto*
+		- By society
+	- *De Jure*
+		- By Law
+
+## Why did reconstruction end?
+
+- Corruption
+- Freedmen's Bureau
+- Panic of 1873
+- Redemption-Redeemers
+- NBF and the KKK
+- Republicans
+
+## Was reconstruction a success?
+
+- Maybe yes
+	- Union restored
+	- Improvements/Southern infrastructure
+	- Legislation
+	- Representation
+- Maybe no
+	- Issues of race
+	- Corruption
+	- No land redistribution
+	- Economic chaos
+
+## Demise and resurrection of slavery
+
+- 1868 Election
+- Resurrection
+	- Black Codes
+	- Rise of "Jim Crow"
