@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5c2d884f8fee9437",
+        "id": "48912bc26db5121f",
         "type": "tabs",
         "children": [
           {
-            "id": "a53cf340f7f7e013",
+            "id": "689508dc117512f1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "History 1301/The Demise and Resurrection of Slavery.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "The Demise and Resurrection of Slavery"
+              "title": "New tab"
             }
           }
         ]
@@ -79,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0820487da3e1b86d",
@@ -193,25 +187,26 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a53cf340f7f7e013",
+  "active": "689508dc117512f1",
   "lastOpenFiles": [
+    "Math 2415/16.5 - Surface Integrals.md",
+    "Math 2415/16.3 - Line integrals in different notation.md",
+    "Math 2415/16.2 - The fundamental Theorem for Line integrals.md",
+    "Math 2415/16.4 - Parameterized Surfaces Surface Area.md",
+    "Math 2415/16.6 - The Vector Differential Opporator.md",
+    "Math 2415/16.7 - The Divergence Theorem.md",
+    "Math 2415/16.8 - Stokes' Theorem.md",
+    "Math 2415/math2415.md",
+    "History 1301/The Demise and Resurrection of Slavery.md",
     "History 1301/Jacksonian Democracy.md",
     "History 1301/hist1301.md",
     "History 1301/Cotton, Slavery, and The Old South.md",
     "History 1301/Causes of The American Revolution.md",
     "History 1301/Benevolent Reform.md",
-    "Math 2415/16.8 - Stokes' Theorem.md",
     "Chem 1311/Chapter 9 - Liquids and Solids.md",
-    "Math 2415/16.5 - Surface Integrals.md",
-    "Math 2415/16.4 - Parameterized Surfaces Surface Area.md",
-    "Math 2415/16.6 - The Vector Differential Opporator.md",
     "Math 2415/16.1 - Line Integrals and Work.md",
-    "Math 2415/16.2 - The fundamental Theorem for Line integrals.md",
-    "Math 2415/16.3 - Line integrals in different notation.md",
-    "Math 2415/16.7 - The Divergence Theorem.md",
     "Chem 1311/Chapter 8 - Gasses.md",
     "Chem 1311/Chapter 7 - Chemical Energy.md",
-    "History 1301/The Demise and Resurrection of Slavery.md",
     "History 1301/The Civil War and Its Causes.md",
     "Server/Arch Linux VM Setup 1.md",
     "Server/Projects.md",
@@ -220,7 +215,6 @@
     "Server/Electronic Sellers.md",
     "Server/Authelia.md",
     "Server/Arch Linux VM Setup 2.md",
-    "Math 2415/math2415.md",
     "Excalidraw/drive-download-20251105T004844Z-1-001.zip",
     "Excalidraw/Unconfirmed 200793.crdownload",
     "Untitled 1.circuit-sketcher",
