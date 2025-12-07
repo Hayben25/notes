@@ -1,34 +1,25 @@
 ## General
 
-- Modem $\rightarrow$ router $\rightarrow$ switch $\rightarrow$ APs, Proxmox Server, Cameras, Backup
+- Modem $\rightarrow$ Router $\rightarrow$ Switch $\rightarrow$ Proxmox Server $\rightarrow$ Backup
 
-## VMs
+## Computers
 
 - Router
-	- Opnsense
+	- Intel NUC ([[Hardware#Router]])
+- Switch
+	- Generic Switch ([[Hardware#Switch]])
 - Proxmox Server
-	- Proxmox mail gateway
-	- Headscale
-	- TrueNAS Scale
-	- Arch linux (Do 2x on main server for rotating updates)
-		- Networking
-			- Adguard Home
-			- forgejo
-			- authelia
-			- traefik
-		- Google replacement
-			- nextcloud
-			- pairdrop
-			- immich
-			- vaultwarden
-			- IRC stack
-		- Media Management / \*arr stack
-			- qbittorrent
-			- yarr
-			- lidarr
-			- radarr
-			- sonarr
-			- bazarr
-			- seerr
-			- jellyfin
-		- Glance
+	- Case ([[Hardware#Case]]) (Probably N500)
+	- CPU ([[Hardware#CPU]]) (Anything AM5)
+	- GPU (x2?) ([[Hardware#GPUs]]) (Cheapest option, B580)
+	- PSU (redundancy?) ([[Hardware#PSU]])
+	- Hard drives ([[Hardware#Drives]])
+	- Network card ([[Hardware#Network Cards]])
+- Backup Server
+	- Case ([[Hardware#Case]]) (Probably N500)
+	- CPU ([[Hardware#CPU]]) (Anything AM5)
+	- GPU (x2?) ([[Hardware#GPUs]]) (Cheapest option, B580)
+	- PSU (redundancy?) ([[Hardware#PSU]])
+	- Hard drives ([[Hardware#Drives]])
+	- Network card ([[Hardware#Network Cards]])
+- Rack?

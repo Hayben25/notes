@@ -28,17 +28,68 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Assignments/hcianess_Assignment8.md",
+                "file": "Server/Physical Setup.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "hcianess_Assignment8"
+              "title": "Physical Setup"
+            }
+          },
+          {
+            "id": "fef16e1badc14082",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Server/Physical Setup.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Physical Setup"
+            }
+          },
+          {
+            "id": "3a90a16b1f569c95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Server/Order of Operations.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Order of Operations"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
+      },
+      {
+        "id": "62bdd1d5aacbbb6c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae8b0d4869700836",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Server/Arch Linux VM Setup 2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Arch Linux VM Setup 2"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,8 +259,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3d2944e3786feb11",
+  "active": "3a90a16b1f569c95",
   "lastOpenFiles": [
+    "Server/Arch Linux VM Setup 2.md",
+    "Server/Order of Operations.md",
+    "Server/Projects.md",
+    "Server/Physical Setup.md",
+    "Server/VMs.md",
+    "Server/Authelia.md",
+    "Server/Hardware.md",
+    "Server/Arch Linux VM Setup 1.md",
+    "Server/Electronic Sellers.md",
+    "[[Arch.md",
     "Assignments/hcianess_Assignment8.md",
     "Math 2415/16.5 - Surface Integrals.md",
     "Math 2415/16.3 - Line integrals in different notation.md",
@@ -226,16 +287,6 @@
     "History 1301/Causes of The American Revolution.md",
     "History 1301/Benevolent Reform.md",
     "Chem 1311/Chapter 9 - Liquids and Solids.md",
-    "Math 2415/16.1 - Line Integrals and Work.md",
-    "Chem 1311/Chapter 8 - Gasses.md",
-    "Chem 1311/Chapter 7 - Chemical Energy.md",
-    "History 1301/The Civil War and Its Causes.md",
-    "Server/Arch Linux VM Setup 1.md",
-    "Server/Projects.md",
-    "Server/Physical Setup.md",
-    "Server/Hardware.md",
-    "Server/Electronic Sellers.md",
-    "Server/Authelia.md",
     "Excalidraw/drive-download-20251105T004844Z-1-001.zip",
     "Excalidraw/Unconfirmed 200793.crdownload",
     "Untitled 1.circuit-sketcher",

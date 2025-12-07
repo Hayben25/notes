@@ -1,14 +1,14 @@
 - pacman
-	- portainer
-		- immich
-	- podman
-		- forgejo
+	- cloudflared
+	- komodo/podman
 		- vaultwarden
-	- docker-compose/docker
 		- nextcloud
 		- adguardhome
+		- forgejo
 		- traefik
 		- qbittorrent
+		- tailscale
+		- immich
 		- jellyfin
 		- authelia
 		- glance

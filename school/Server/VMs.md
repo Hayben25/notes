@@ -1,0 +1,5 @@
+- Router
+	- Opnsense
+- Proxmox Server
+	- TrueNAS CE
+	- Arch linux (Look at [[Arch Linux VM Setup 2]]) (Do 2x on main server for rotating updates)
