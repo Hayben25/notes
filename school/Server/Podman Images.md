@@ -1,0 +1,40 @@
+- vaultwarden
+	- https://github.com/dani-garcia/vaultwarden?tab=readme-ov-file#disclaimer
+- nextcloud
+	- https://github.com/nextcloud/all-in-one#how-to-use-this
+	- https://docs.linuxserver.io/images/docker-nextcloud/?h=next
+- adguardhome
+	- https://adguard-dns.io/kb/adguard-home/getting-started/
+- forgejo
+	- https://codeberg.org/forgejo/-/packages/container/forgejo/13-rootless
+- traefik
+	- https://doc.traefik.io/traefik/getting-started/docker/
+- qbittorrent
+	- https://docs.linuxserver.io/images/docker-qbittorrent/
+- tailscale
+	- https://tailscale.com/kb/1282/docker
+- immich
+	- https://awesome.immich.app/
+- jellyfin
+	- https://jellyfin.org/downloads/docker
+	- https://docs.linuxserver.io/images/docker-jellyfin/?h=je#supported-architectures
+- authelia
+	- https://www.authelia.com/integration/deployment/docker/
+- glance
+	- https://github.com/glanceapp/glance?tab=readme-ov-file#installation
+- lidarr
+	- https://lidarr.audio/#downloads-v1-docker
+	- https://github.com/linuxserver/docker-lidarr
+- radarr
+	- https://radarr.video/#downloads-docker
+	- https://docs.linuxserver.io/images/docker-radarr/?h=radarr
+- sonarr
+	- https://sonarr.tv/
+	- https://docs.linuxserver.io/images/docker-sonarr/?h=sonarr
+- bazarr
+	- https://www.bazarr.media/
+	- https://docs.linuxserver.io/images/docker-bazarr/
+- jellyseerr
+	- https://docs.seerr.dev/getting-started/docker
+- prowlarr
+	- https://prowlarr.com/#downloads-v3-docker

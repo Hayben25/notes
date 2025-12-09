@@ -33,6 +33,8 @@ https://opnsense.org/ - router
 
 https://forgejo.org/ - selfhosted git
 https://github.com/glanceapp/glance - dashboard
+https://developers.redhat.com/blog/2018/02/22/container-terminology-practical-introduction#background - Open Container Initiative Terminology
+https://docs.podman.io/en/latest/ - Podman
 
 ## operating systems
 

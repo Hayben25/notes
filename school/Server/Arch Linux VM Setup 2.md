@@ -18,5 +18,6 @@
 		- sonarr
 		- bazarr
 		- jellyseerr
+		- prowlarr
 	- helm
 		- ess-helm
