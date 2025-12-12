@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chem 1311/Chapter 2 - Atomic Structure and Periodicity.md",
+                "file": "Server/Kernel/commands.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 2 - Atomic Structure and Periodicity"
+              "title": "commands"
             }
           }
         ]
@@ -194,8 +194,13 @@
   },
   "active": "e6ad10234e93a5b2",
   "lastOpenFiles": [
-    "Chem 1311/Chapter 1 - Chemical Foundations.md",
+    "Server/Kernel/custom-config.md",
+    "Server/Kernel/commands.md",
     "Server/Podman Images.md",
+    "Chem 1311/Chapter 2 - Atomic Structure and Periodicity.md",
+    "Server/Kernel",
+    "Server/custom-kernel",
+    "Chem 1311/Chapter 1 - Chemical Foundations.md",
     "Server/Physical Setup.md",
     "Server/Arch Linux VM Setup 2.md",
     "Server/Projects.md",
@@ -217,9 +222,6 @@
     "Math 2415/math2415.md",
     "History 1301/The Demise and Resurrection of Slavery.md",
     "History 1301/Jacksonian Democracy.md",
-    "History 1301/hist1301.md",
-    "History 1301/Cotton, Slavery, and The Old South.md",
-    "History 1301/Causes of The American Revolution.md",
     "Excalidraw/drive-download-20251105T004844Z-1-001.zip",
     "Excalidraw/Unconfirmed 200793.crdownload",
     "Untitled 1.circuit-sketcher",

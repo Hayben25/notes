@@ -39,6 +39,5 @@ https://docs.podman.io/en/latest/ - Podman
 ## operating systems
 
 https://archlinux.org/ - for vms
-https://www.proxmox.com/en/proxmox-ve - hypervisor
-https://proxmox.com/en/products/proxmox-backup-server/ - backups
-https://www.truenas.com/truenas-scale/ - storage management
+https://aur.archlinux.org/packages/linux-cachyos-server - oOoh
+https://cockpit-project.org/ - webui management
